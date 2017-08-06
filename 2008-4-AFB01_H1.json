@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "(서울)-프랑스어교육과(Department of French Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "E02309101",
+  "subjectName" : "프랑스어교과교육론 (Studies in French Curriculum Education)",
+  "professorNameMain" : "김현정(실불)",
+  "professorNameAdditional" : "Hyun Jung Kim",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3409"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3409"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3409"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3409"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3409"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

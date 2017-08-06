@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-정치외교학과(Department of Political Science and Diplomacy)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C01151301",
+  "subjectName" : "국제관계개론 (Introduction to International Relations)",
+  "professorNameMain" : "박영민",
+  "professorNameAdditional" : "Park, young min ",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  } ],
+  "applyNo" : 9,
+  "maxNo" : 60,
+  "note" : "글로벌 이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

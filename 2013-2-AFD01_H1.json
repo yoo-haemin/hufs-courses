@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 2,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "E04132201",
+  "subjectName" : "외국어로서의한국어어휘교육론 (Studies on Teaching Lexicon of Korean as a Foreign Language)",
+  "professorNameMain" : "박기선",
+  "professorNameAdditional" : "Park, Gi-Seon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0330"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 2,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "E04471101",
+  "subjectName" : "한국문학교육론 (Studies in Korean Literary Education)",
+  "professorNameMain" : "정래필",
+  "professorNameAdditional" : "Jeong Rae Pil",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0330"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,201 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U71803101",
+  "subjectName" : "문화와국가브랜드 (Culture and National Brand)",
+  "professorNameMain" : "이재진",
+  "professorNameAdditional" : "Lee Jae Jin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U54119101",
+  "subjectName" : "서유럽사회와문화 (Society & Culture of West Europe)",
+  "professorNameMain" : "김요한",
+  "professorNameAdditional" : "Kim, Johann",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U76210101",
+  "subjectName" : "세계의음식문화와관광 (Global Food Culture and Tourism)",
+  "professorNameMain" : "김용석",
+  "professorNameAdditional" : "KIM, Yong-Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U71804101",
+  "subjectName" : "스토리와유럽문화 (Stories and Travel for European Culture)",
+  "professorNameMain" : "남영우",
+  "professorNameAdditional" : "Nam, Young-Woo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "C302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "C302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "C302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "C302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "C302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U76214101",
+  "subjectName" : "히스패닉아메리카사회와문화 (Hispanic American Society and Culture)",
+  "professorNameMain" : "김달관",
+  "professorNameAdditional" : "Kim, Dal-Kwan",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,81 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "기초교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "기초교양",
+  "courseNumber" : "U76201101",
+  "subjectName" : "글쓰기 (Writing)",
+  "professorNameMain" : "박은정",
+  "professorNameAdditional" : "Park Eunjung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "기초교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "기초교양",
+  "courseNumber" : "U76201102",
+  "subjectName" : "글쓰기 (Writing)",
+  "professorNameMain" : "탁광혁",
+  "professorNameAdditional" : "Tak,Kwanghyuk",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03109201",
+  "subjectName" : "활용독일어2 (Practical Use German 2)",
+  "professorNameMain" : "이완호",
+  "professorNameAdditional" : "Wan-Ho Lee",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "(글로벌) 전공/이중/부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03324101",
+  "subjectName" : "독일문학특강 (Special Lecture on German Literature)",
+  "professorNameMain" : "서은주",
+  "professorNameAdditional" : "Eun Ju Suh",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "(글로벌) 전공/이중/부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03306101",
+  "subjectName" : "독일지역사정(경제) (German Studies(Economics))",
+  "professorNameMain" : "방경원",
+  "professorNameAdditional" : "Bang, Kyung-Won",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "(글로벌) 전공/이중/부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-중국외교통상전공(Chinese Foreign Affairs and Commerce)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B01251101",
+  "subjectName" : "중국법제도의이해 (Understanding of Chinese Law)",
+  "professorNameMain" : "김인식",
+  "professorNameAdditional" : "Kim, In Sik",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  } ],
+  "applyNo" : 19,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-중국외교통상전공(Chinese Foreign Affairs and Commerce)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B01275101",
+  "subjectName" : "중국사회갈등구조의이해 (Understanding the Structure of China's Conflicts)",
+  "professorNameMain" : "김인",
+  "professorNameAdditional" : "Kim, In",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 25,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,165 @@
+[ {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "E04415201",
+  "subjectName" : "외국어로서의한국어문법교육론 (Theory of Teaching Korean Grammar as a Foreign Language)",
+  "professorNameMain" : "홍종명",
+  "professorNameAdditional" : "Hong Jong Myung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "E04411201",
+  "subjectName" : "한국어교수학습론 (Theories of Korean Teaching and Learning)",
+  "professorNameMain" : "정래필",
+  "professorNameAdditional" : "Jeong Rae Pil",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "2401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "E04363101",
+  "subjectName" : "한국어논리및논술 (Logical Thinking and Writing in Korean)",
+  "professorNameMain" : "박영기",
+  "professorNameAdditional" : "Park, Young Gi",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1204"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B01352301",
+  "subjectName" : "응용언어학 (Applied Linguistics)",
+  "professorNameMain" : "임형재",
+  "professorNameAdditional" : "Lim Hyung Jae",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

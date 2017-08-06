@@ -1,0 +1,165 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03110101",
+  "subjectName" : "활용독일어1 (Practical Use German 1)",
+  "professorNameMain" : "이완호",
+  "professorNameAdditional" : "Wan-Ho Lee",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "0219"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "0219"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "0219"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "0219"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "0219"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03324101",
+  "subjectName" : "독일문학특강 (Special Lecture on German Literature)",
+  "professorNameMain" : "서은주",
+  "professorNameAdditional" : "Eun Ju Suh",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "0221"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과, (글로벌)독일어통번역학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03467301",
+  "subjectName" : "독일지역사정(역사) (German Studies(History))",
+  "professorNameMain" : "유진영",
+  "professorNameAdditional" : "Yu Jinyoung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "0221"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과, (글로벌)독일어통번역학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03392101",
+  "subjectName" : "전공FLEX독일어2 (Preparation Course for FLEX German 2)",
+  "professorNameMain" : "백인옥",
+  "professorNameAdditional" : "Paek In-Ok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과, (글로벌)독일어통번역학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

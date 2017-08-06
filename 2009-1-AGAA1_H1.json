@@ -1,0 +1,325 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01235201",
+  "subjectName" : "거시경제분석 (Macroeconomic Theory)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01235202",
+  "subjectName" : "거시경제분석 (Macroeconomic Theory)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 8 ],
+    "room" : "3305"
+  } ],
+  "applyNo" : 0,
+  "note" : "추가개설(2/27), 수강대상제한없음",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01233201",
+  "subjectName" : "미시경제분석 (Microeconomic theory)",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 2 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01201101",
+  "subjectName" : "정치학방법론 (Research Methods in Political Science)",
+  "professorNameMain" : "김웅진",
+  "professorNameAdditional" : "Kim, Ung Jin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01202101",
+  "subjectName" : "평화연구 (Peace Studies)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6, 7 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "K01301101",
+  "subjectName" : "국제기구론 (International Organizations)",
+  "professorNameMain" : "강선주",
+  "professorNameAdditional" : "Kang Seonjou",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "C01324301",
+  "subjectName" : "국제법 (International Law)",
+  "professorNameMain" : "Sara Oh",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 4 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3505"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "C01213201",
+  "subjectName" : "국제정치이론 (Theories of International Politics)",
+  "professorNameMain" : "Sara Oh",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "K01307101",
+  "subjectName" : "국제학특강(1) (Topics in International Studies (1))",
+  "professorNameMain" : "김봉철",
+  "professorNameAdditional" : "Bongchul Kim",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 4 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "K01305101",
+  "subjectName" : "금융경제론 (Financial Economics)",
+  "professorNameMain" : "박도준",
+  "professorNameAdditional" : "Bhak, Dohjoon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "F05214601",
+  "subjectName" : "통계학 (Statistics)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3201"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7 ],
+    "room" : "3201"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "K01411101",
+  "subjectName" : "세계화전략 (Global Strategy)",
+  "professorNameMain" : "Sara Oh",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3505"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 2 ],
+    "room" : "3505"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-법학과(Department of Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "G01304101",
+  "subjectName" : "유가증권법 (Law of Commercial Paper)",
+  "professorNameMain" : "박한성",
+  "professorNameAdditional" : "Park Han Sung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "5701"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-법학과(Department of Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "G01303101",
+  "subjectName" : "회사법 (Company Law)",
+  "professorNameMain" : "박한성",
+  "professorNameAdditional" : "Park Han Sung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5701"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5701"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-법학과(Department of Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "G01310101",
+  "subjectName" : "친족상속법 (Law of Domestic Relations & Inheritance)",
+  "professorNameMain" : "홍준형",
+  "professorNameAdditional" : "Hong Jun Hyeong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5702"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5702"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5702"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5702"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5702"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

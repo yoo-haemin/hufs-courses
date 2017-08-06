@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "국가와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "국가와사회",
+  "courseNumber" : "U74110201",
+  "subjectName" : "민법의이해 (Basic Understanding of Civil Law)",
+  "professorNameMain" : "박설아",
+  "professorNameAdditional" : "Park, Sirl A",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 18,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "국가와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "국가와사회",
+  "courseNumber" : "U04208101",
+  "subjectName" : "북한의정치와사회 (North Korean Politics & Society)",
+  "professorNameMain" : "김형기",
+  "professorNameAdditional" : "Kim Hyeong Ki",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 49,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "국가와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "국가와사회",
+  "courseNumber" : "U51403201",
+  "subjectName" : "심리학의이해 (Introduction to Psychology)",
+  "professorNameMain" : "김영선(교양)",
+  "professorNameAdditional" : "Kim, young sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 24,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

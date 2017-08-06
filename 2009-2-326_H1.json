@@ -1,0 +1,241 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U72149101",
+  "subjectName" : "PC하드웨어 (PC Hardware)",
+  "professorNameMain" : "한광덕",
+  "professorNameAdditional" : "Kwang Deok, Han",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U51521201",
+  "subjectName" : "생명의이해 (Principles of Lifesciences)",
+  "professorNameMain" : "곽노태",
+  "professorNameAdditional" : "Kwag, Notae",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1211"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U51417201",
+  "subjectName" : "우주와인간 (The Universe & Man)",
+  "professorNameMain" : "정영진",
+  "professorNameAdditional" : "Jeong , Young Jin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76301101",
+  "subjectName" : "웹디자인 (Web Design)",
+  "professorNameMain" : "박정윤(CS)",
+  "professorNameAdditional" : "Park Jeong Yun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U55107201",
+  "subjectName" : "인터넷의이해 (Understanding of Internet)",
+  "professorNameMain" : "한민규",
+  "professorNameAdditional" : "Minkyu Han",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76307101",
+  "subjectName" : "컴퓨터활용 (Practical Use Computer)",
+  "professorNameMain" : "한광덕",
+  "professorNameAdditional" : "Kwang Deok, Han",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

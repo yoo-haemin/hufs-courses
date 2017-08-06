@@ -1,0 +1,206 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어학과(Department of English Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01156101",
+  "subjectName" : "시사영어강독(1) (English Readings in Current Affairs (1))",
+  "professorNameMain" : "안규동",
+  "professorNameAdditional" : "AHN KYOU DONG",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어학과(Department of English Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01195101",
+  "subjectName" : "영어다독(1) (Extensive English Reading (1))",
+  "professorNameMain" : "윤일승",
+  "professorNameAdditional" : "Yun Ilsung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어학과(Department of English Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01196101",
+  "subjectName" : "영어다독(2) (Extensive English Reading (2))",
+  "professorNameMain" : "이진환",
+  "professorNameAdditional" : "Jin-Hwan Lee ",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어학과(Department of English Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01132501",
+  "subjectName" : "영어문법(1) (English Grammar (1))",
+  "professorNameMain" : "김지인",
+  "professorNameAdditional" : "Kim Jiin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2408"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2408"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2408"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2408"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어학과(Department of English Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01159101",
+  "subjectName" : "영어작문(1) (English Writing (1))",
+  "professorNameMain" : "정인식(E)",
+  "professorNameAdditional" : "In-Sik Jeong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,181 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03120101",
+  "subjectName" : "독일어회화2 (Conversation in German Language 2)",
+  "professorNameMain" : "Florian Wessels",
+  "professorNameAdditional" : "",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 7, 8 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03368201",
+  "subjectName" : "독일사실주의 (German Realism)",
+  "professorNameMain" : "여상운(Yeo Sang Woon)",
+  "professorNameAdditional" : "Yeo Sang Woon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03470101",
+  "subjectName" : "독일지역사정(문화) (German Studies(Culture))",
+  "professorNameMain" : "이주봉",
+  "professorNameAdditional" : "LEE, JU-BONG",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03424101",
+  "subjectName" : "독일현대미학 (Modern German Esthetic)",
+  "professorNameMain" : "김완균(G)",
+  "professorNameAdditional" : "Kim, Wan-Kyun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

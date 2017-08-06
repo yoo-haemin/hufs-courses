@@ -1,0 +1,81 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "U72193101",
+  "subjectName" : "인간관계와갈등관리 (Social Relation and Conflict Management )",
+  "professorNameMain" : "연미영",
+  "professorNameAdditional" : "Yeon Mi Young",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 33,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "Y21163201",
+  "subjectName" : "추리논증 (Reasoning & Argumentation)",
+  "professorNameMain" : "신소혜",
+  "professorNameAdditional" : "Shin So Hye",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1406"
+  } ],
+  "applyNo" : 8,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

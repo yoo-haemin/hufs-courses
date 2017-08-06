@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본문학전공(Japanese Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B02151101",
+  "subjectName" : "일본문학과영상예술 (Japanese Literature and Film)",
+  "professorNameMain" : "금영진",
+  "professorNameAdditional" : "Keum, Young-Jin ",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1204"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(글로벌) 전공/이중/부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

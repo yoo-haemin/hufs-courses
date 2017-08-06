@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "(서울)-언론정보학부(Journalism and Mass Communication Division )",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "Z24406202",
+  "subjectName" : "매스컴과현대사회 (Mass Communication & Modern Society )",
+  "professorNameMain" : "정지연",
+  "professorNameAdditional" : "Jung Ji Youn",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(언론정보, 광고홍보, 방송영상)전공 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "(서울)-언론정보학부(Journalism and Mass Communication Division )",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C04108102",
+  "subjectName" : "커뮤니케이션학개론 (Introduction to Communication)",
+  "professorNameMain" : "김동원",
+  "professorNameAdditional" : "Kim Dong Won",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(언론정보, 광고홍보, 방송영상)전공 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

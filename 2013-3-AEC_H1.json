@@ -1,0 +1,142 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102401",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "권원순",
+  "professorNameAdditional" : "Kwon Won Soon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제 1전공자만 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102402",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "김승년",
+  "professorNameAdditional" : "Kim, Seung-Nyeon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제 1전공자만 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102403",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "Katarina Mayer",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제 1전공자만 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "F05214501",
+  "subjectName" : "통계학 (Statistics)",
+  "professorNameMain" : "노택선",
+  "professorNameAdditional" : "Roh, Taek Seon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제 1전공자만 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "F05214502",
+  "subjectName" : "통계학 (Statistics)",
+  "professorNameMain" : "Katarina Mayer",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제 1전공자만 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

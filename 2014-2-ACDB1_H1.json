@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "(서울)-광고.홍보전공(Advertising and Public Relations Major)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "C03303101",
+  "subjectName" : "P.R의이해 (Introduction to Public Relations)",
+  "professorNameMain" : "박건희",
+  "professorNameAdditional" : "Park, Geonhee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌캠 전공/이중/부전공 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "(서울)-광고.홍보전공(Advertising and Public Relations Major)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "C04306101",
+  "subjectName" : "브랜드커뮤니케이션캠페인 (Brand Communication Campaign)",
+  "professorNameMain" : "이효복",
+  "professorNameAdditional" : "Lee Hyo-bok",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌캠 전공/이중/부전공 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

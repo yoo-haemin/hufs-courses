@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-철학과(Department of Philosophy)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "V42301101",
+  "subjectName" : "서양고.중세철학사 (History of Greek & Medieval Philosophy)",
+  "professorNameMain" : "조명동",
+  "professorNameAdditional" : "Cho Myoung Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 11,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

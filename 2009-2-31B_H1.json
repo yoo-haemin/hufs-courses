@@ -1,0 +1,575 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71191101",
+  "subjectName" : "J-POP일본어1 (J-POP Japanese 1)",
+  "professorNameMain" : "이윤옥(교양)",
+  "professorNameAdditional" : "lee yoonok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "0330"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71169101",
+  "subjectName" : "대중음악중국어 (Chinese Pop Music)",
+  "professorNameMain" : "홍병혜",
+  "professorNameAdditional" : "Hong Byung-hye",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71187101",
+  "subjectName" : "드라마일본어1 (Japanese in Drama 1)",
+  "professorNameMain" : "박용일",
+  "professorNameAdditional" : "Park Yong Il",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0115"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71185101",
+  "subjectName" : "비즈니스일본어1 (Business Japanese 1)",
+  "professorNameMain" : "오현수",
+  "professorNameAdditional" : "Oh Hyun Soo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71159101",
+  "subjectName" : "생활스페인어1 (Daily Spanish 1)",
+  "professorNameMain" : "김광희",
+  "professorNameAdditional" : "Kwanghee Kim",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71105101",
+  "subjectName" : "시사영어듣기와토론(중급) (Learning English in Journalism (Intermediate))",
+  "professorNameMain" : "김미혜(실외)",
+  "professorNameAdditional" : "Kim Mihye",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71105102",
+  "subjectName" : "시사영어듣기와토론(중급) (Learning English in Journalism (Intermediate))",
+  "professorNameMain" : "김미혜(실외)",
+  "professorNameAdditional" : "Kim Mihye",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71167101",
+  "subjectName" : "시사중국어 (Current Chinese)",
+  "professorNameMain" : "공유식",
+  "professorNameAdditional" : "Kong, Yoo Sik",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "E01103301",
+  "subjectName" : "실용영문법(실외) (Practical English Grammar )",
+  "professorNameMain" : "윤영옥",
+  "professorNameAdditional" : "Young-Ok Yun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "0115"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "E01103302",
+  "subjectName" : "실용영문법(실외) (Practical English Grammar )",
+  "professorNameMain" : "윤영옥",
+  "professorNameAdditional" : "Young-Ok Yun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "0115"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 3,
+  "courseNumber" : "U71111101",
+  "subjectName" : "FLEX영어(종합) (FLEX English)",
+  "professorNameMain" : "최순근",
+  "professorNameAdditional" : "Choi, Sun-Geun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "0218"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "0218"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0218"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "0218"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "0218"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 3,
+  "courseNumber" : "U71111102",
+  "subjectName" : "FLEX영어(종합) (FLEX English)",
+  "professorNameMain" : "최순근",
+  "professorNameAdditional" : "Choi, Sun-Geun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 3,
+  "courseNumber" : "U71110101",
+  "subjectName" : "IBT토익(종합) (IBT TOEIC)",
+  "professorNameMain" : "윤채영",
+  "professorNameAdditional" : "Yoon, Chae-Young",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "0328"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 3,
+  "courseNumber" : "U71110102",
+  "subjectName" : "IBT토익(종합) (IBT TOEIC)",
+  "professorNameMain" : "윤채영",
+  "professorNameAdditional" : "Yoon, Chae-Young",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0328"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

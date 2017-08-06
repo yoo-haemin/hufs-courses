@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 3,
+  "courseNumber" : "R08307101",
+  "subjectName" : "해외한인문화와콘텐츠 (Overseas Korean Culture and Contents)",
+  "professorNameMain" : "손미경",
+  "professorNameAdditional" : "Son mi gyeong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 4,
+  "courseNumber" : "R08431101",
+  "subjectName" : "대중문화콘텐츠분석2 (Analysis on Popular Culture and Contents 2)",
+  "professorNameMain" : "독고현",
+  "professorNameAdditional" : "Tockgo, Hyun",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

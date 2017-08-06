@@ -1,0 +1,206 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영미문학·문화학과(Department of English Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01136101",
+  "subjectName" : "문화와텍스트(1) (Culture & Text(1))",
+  "professorNameMain" : "배경진",
+  "professorNameAdditional" : "Bae, Kyungjin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 20,
+  "maxNo" : 40,
+  "note" : "글로벌 영통학부 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영미문학·문화학과(Department of English Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01672201",
+  "subjectName" : "21세기영.미문학 (21st Century British & American Literature)",
+  "professorNameMain" : "한광택",
+  "professorNameAdditional" : "HAN KWANGTAEK",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 34,
+  "maxNo" : 40,
+  "note" : "글로벌 영미문학 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영미문학·문화학과(Department of English Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01145201",
+  "subjectName" : "베스트셀러읽기 (Reading Bestsellers)",
+  "professorNameMain" : "강선자",
+  "professorNameAdditional" : "Kang Seon Ja",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1310"
+  } ],
+  "applyNo" : 26,
+  "maxNo" : 40,
+  "note" : "글로벌 영통학부 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영미문학·문화학과(Department of English Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01231301",
+  "subjectName" : "영.미문학번역 (Korean Translation of British and American Literary Works)",
+  "professorNameMain" : "최지연",
+  "professorNameAdditional" : "Choi, Jiyeon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 26,
+  "maxNo" : 40,
+  "note" : "글로벌 영미문학 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영미문학·문화학과(Department of English Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01227201",
+  "subjectName" : "영작문 (English Composition)",
+  "professorNameMain" : "이민정",
+  "professorNameAdditional" : "Lee, Min-Jung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 11,
+  "maxNo" : 40,
+  "note" : "글로벌 영통학부 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

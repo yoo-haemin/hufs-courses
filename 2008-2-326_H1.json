@@ -1,0 +1,281 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U72149101",
+  "subjectName" : "PC하드웨어 (PC Hardware)",
+  "professorNameMain" : "박정윤(CS)",
+  "professorNameAdditional" : "Park Jeong Yun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U51521201",
+  "subjectName" : "생명의이해 (Principles of Lifesciences)",
+  "professorNameMain" : "곽노태",
+  "professorNameAdditional" : "Kwag, Notae",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1409"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1409"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1409"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1409"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1409"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76301101",
+  "subjectName" : "웹디자인 (Web Design)",
+  "professorNameMain" : "박정윤(CS)",
+  "professorNameAdditional" : "Park Jeong Yun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76304101",
+  "subjectName" : "인간과생태계 (Human and Ecosystem)",
+  "professorNameMain" : "박강리",
+  "professorNameAdditional" : "Park Gang Ri",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U55107201",
+  "subjectName" : "인터넷의이해 (Understanding of Internet)",
+  "professorNameMain" : "이명무",
+  "professorNameAdditional" : "LEE, MYUNG MOO",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76307101",
+  "subjectName" : "컴퓨터활용 (Practical Use Computer)",
+  "professorNameMain" : "한광덕",
+  "professorNameAdditional" : "Kwang Deok, Han",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U75109201",
+  "subjectName" : "환경과삶 (Life in Environmental Systems)",
+  "professorNameMain" : "류선정",
+  "professorNameAdditional" : "Yoo Sun Jung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

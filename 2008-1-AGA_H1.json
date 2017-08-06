@@ -1,0 +1,167 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101A01",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 2 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1전공,이중(제2,부)전공,자유전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101A02",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1603"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "추가개설(3/10)",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01101101",
+  "subjectName" : "국제학영어논문작성법 (Academic Writing for International Studies )",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 6 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1전공,이중(제2,부)전공,자유전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01101102",
+  "subjectName" : "국제학영어논문작성법 (Academic Writing for International Studies )",
+  "professorNameMain" : "Lyman McLallen",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3305"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 20,
+  "note" : "추가개설(3/13)",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01106101",
+  "subjectName" : "문화의이해 (Understanding Culture)",
+  "professorNameMain" : "박상미",
+  "professorNameAdditional" : "Bak, Sangmee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1전공,이중(제2,부)전공,자유전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C01101401",
+  "subjectName" : "정치학개론 (Introduction to Political Science)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3505"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1전공,이중(제2,부)전공,자유전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

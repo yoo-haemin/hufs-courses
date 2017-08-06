@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "(서울)-중국언어문화전공(Chinese Language, Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01424101",
+  "subjectName" : "고대한어기초(1) (Chinese Old Writing(1))",
+  "professorNameMain" : "정호준",
+  "professorNameAdditional" : "Jeong, hojun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부전공 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "(서울)-중국언어문화전공(Chinese Language, Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01261301",
+  "subjectName" : "중급중국어(1) (Intermediate Chinese (1))",
+  "professorNameMain" : "정중석",
+  "professorNameAdditional" : "Jung JoongSeck",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "중국어특기생 수강불가 글로벌 전공/이중/부전공 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

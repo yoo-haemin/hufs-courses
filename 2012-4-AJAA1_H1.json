@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본어학전공(Japanese Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B02192101",
+  "subjectName" : "일본어표현의이해 (Studies of Japanese Expressions)",
+  "professorNameMain" : "박용일",
+  "professorNameAdditional" : "Park Yong Il",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(글로벌)일본어통번역학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

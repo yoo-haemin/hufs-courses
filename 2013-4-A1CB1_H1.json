@@ -1,0 +1,206 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-영문학과(Department of English Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01172101",
+  "subjectName" : "드라마청취및번역 (Viewing English Dramas and Creating Korean Subtitles)",
+  "professorNameMain" : "장용준",
+  "professorNameAdditional" : "Jang Yongjun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "(글로벌영어공통) 전공/이중/부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-영문학과(Department of English Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01172102",
+  "subjectName" : "드라마청취및번역 (Viewing English Dramas and Creating Korean Subtitles)",
+  "professorNameMain" : "엄기동",
+  "professorNameAdditional" : "Gidong Aum",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0211"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-영문학과(Department of English Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01695101",
+  "subjectName" : "문학적상상력과글쓰기(2) (Literary imagination and Writing(2))",
+  "professorNameMain" : "김성일",
+  "professorNameAdditional" : "Sungill KIM",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0225"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-영문학과(Department of English Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01168101",
+  "subjectName" : "영산문 (English Essays)",
+  "professorNameMain" : "도해자",
+  "professorNameAdditional" : "Do, Hae Ja",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "0328"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-영문학과(Department of English Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A01214401",
+  "subjectName" : "현대영국소설 (Morden British Fiction)",
+  "professorNameMain" : "이영심",
+  "professorNameAdditional" : "Lee, Young-Shim",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0328"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

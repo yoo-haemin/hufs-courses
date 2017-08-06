@@ -1,0 +1,165 @@
+[ {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03109201",
+  "subjectName" : "활용독일어2 (Practical Use German 2)",
+  "professorNameMain" : "김해생",
+  "professorNameAdditional" : "Kim Haesaeng",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "1204"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03324101",
+  "subjectName" : "독일문학특강 (Special Lecture on German Literature)",
+  "professorNameMain" : "김성화",
+  "professorNameAdditional" : "Kim, Sung-Hwa",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03306101",
+  "subjectName" : "독일지역사정(경제) (German Studies(Economics))",
+  "professorNameMain" : "방경원",
+  "professorNameAdditional" : "Bang, Kyung-Won",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03472101",
+  "subjectName" : "시사독일어2 (Current Issues in German 2)",
+  "professorNameMain" : "천현순",
+  "professorNameAdditional" : "Cheon, Hyun-Soon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

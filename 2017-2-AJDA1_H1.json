@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-융합일본지역전공(Integrated Japanese Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02225101",
+  "subjectName" : "융합일본지역학의이해1(사회.문화) (Introduction to Integrated Japanese Studies 1(Society & Culture))",
+  "professorNameMain" : "김미정",
+  "professorNameAdditional" : "KIM MI JUNG",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 18,
+  "maxNo" : 60,
+  "note" : "이중/부전공자 수강 가능, 글로벌 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-융합일본지역전공(Integrated Japanese Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02152201",
+  "subjectName" : "현대일본경제론 (Contemporary Japanese Economy)",
+  "professorNameMain" : "이창민",
+  "professorNameAdditional" : "LEE Changmin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1303"
+  } ],
+  "applyNo" : 27,
+  "maxNo" : 60,
+  "note" : "일본언어문화전공, 일본문학/어학전공 전공교류(인정)교과목, 이중/부전공자 수강 가능, 글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

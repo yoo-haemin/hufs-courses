@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102201",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3302"
+  } ],
+  "applyNo" : 24,
+  "maxNo" : 30,
+  "note" : "* 평화(14학번 이전 및 15,16학번 평화등급만 수강가능)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

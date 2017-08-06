@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 2,
+  "courseNumber" : "R08228101",
+  "subjectName" : "다문화콘텐츠기획 (Planning and Development of Multicultural Contents)",
+  "professorNameMain" : "김진영",
+  "professorNameAdditional" : "Jin Young Kim",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌캠 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 2,
+  "courseNumber" : "R08208101",
+  "subjectName" : "문화와커뮤니케이션 (Culture and Communication)",
+  "professorNameMain" : "신정아",
+  "professorNameAdditional" : "Shin Jung-Ah",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌캠 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

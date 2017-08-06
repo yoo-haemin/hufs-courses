@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-일본어과(Department of Japanese)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02204101",
+  "subjectName" : "일본어문장연습 (Practice in Japanese Composition)",
+  "professorNameMain" : "박용일",
+  "professorNameAdditional" : "Park Yong Il",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "용인 일본어통번역 전공학점으로 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-일본어과(Department of Japanese)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02353101",
+  "subjectName" : "일본근대문학사 (History of Japanese Modern Literature)",
+  "professorNameMain" : "류리수",
+  "professorNameAdditional" : "Lew Risoo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "용인 일본어통번역 전공학점으로 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-일본어과(Department of Japanese)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B02452201",
+  "subjectName" : "일본학특강 (Topics in Japanese Studies)",
+  "professorNameMain" : "양익모",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "용인 일본어통번역 전공학점으로 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

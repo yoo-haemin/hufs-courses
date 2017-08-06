@@ -1,0 +1,80 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "(서울)-Language & Trade학부(Division of Language & Trade)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01617201",
+  "subjectName" : "English Writing",
+  "professorNameMain" : "Chris Green",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1607"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1전공자, 국제학부생만 수강가능",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "(서울)-Language & Trade학부(Division of Language & Trade)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C01104401",
+  "subjectName" : "Introduction to Economics",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1508"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6 ],
+    "room" : "1605"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1전공자만 수강가능",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "(서울)-Language & Trade학부(Division of Language & Trade)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01201301",
+  "subjectName" : "Introduction to International Trade",
+  "professorNameMain" : "김현종",
+  "professorNameAdditional" : "KIM, HYUN-CHONG",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 2, 3, 4 ],
+    "room" : "H202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1전공자만 수강가능",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

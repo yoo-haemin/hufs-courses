@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-중국외교통상전공(Chinese Foreign Affairs and Commerce)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B01490101",
+  "subjectName" : "중국의엘리트와사회변동 (China's Elite and Social Changes)",
+  "professorNameMain" : "정보은",
+  "professorNameAdditional" : "Jung Boeun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2405"
+  } ],
+  "applyNo" : 22,
+  "maxNo" : 60,
+  "note" : "글로벌 중국어 통번역 전공/이중/부 미인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

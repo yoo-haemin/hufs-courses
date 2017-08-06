@@ -1,0 +1,161 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U51417201",
+  "subjectName" : "우주와인간 (The Universe & Man)",
+  "professorNameMain" : "정영진",
+  "professorNameAdditional" : "Jeong , Young Jin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76303101",
+  "subjectName" : "인간과보건환경 (Introduction to Public Health)",
+  "professorNameMain" : "장수환",
+  "professorNameAdditional" : "Jang Su Hwan",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76307101",
+  "subjectName" : "컴퓨터활용 (Practical Use Computer)",
+  "professorNameMain" : "한광덕",
+  "professorNameAdditional" : "Kwang Deok, Han",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 4,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U71844101",
+  "subjectName" : "화산과지진 (Volcanoes and Earthquakes)",
+  "professorNameMain" : "김소희",
+  "professorNameAdditional" : "Kim SoHee",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

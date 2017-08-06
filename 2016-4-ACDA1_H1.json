@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-언론·정보전공(Journalism & Information)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "C03128101",
+  "subjectName" : "미디어와정치 (Media Politics)",
+  "professorNameMain" : "백강희",
+  "professorNameAdditional" : "Kang Hui Baek",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 43,
+  "maxNo" : 65,
+  "note" : "글로벌 이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "(서울)-미디어커뮤니케이션학부(Division of Media & Communication)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C03115101",
+  "subjectName" : "미디어글쓰기 (Media Writing )",
+  "professorNameMain" : "심영섭(신방)",
+  "professorNameAdditional" : "Shim Young Sub",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부전공 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "(서울)-미디어커뮤니케이션학부(Division of Media & Communication)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C04108101",
+  "subjectName" : "커뮤니케이션학개론 (Introduction to Communication)",
+  "professorNameMain" : "전영란(IC)",
+  "professorNameAdditional" : "Chun, Young Ran",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부전공 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "(서울)-미디어커뮤니케이션학부(Division of Media & Communication)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "C04209101",
+  "subjectName" : "커뮤니케이션이론 (Theory of Communication)",
+  "professorNameMain" : "정지연",
+  "professorNameAdditional" : "Jung Ji Youn",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부전공 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

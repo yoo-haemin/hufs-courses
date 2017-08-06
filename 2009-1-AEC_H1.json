@@ -1,0 +1,113 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D02103101",
+  "subjectName" : "경제수학 (Mathematics for Economics)",
+  "professorNameMain" : "김창준(EC)",
+  "professorNameAdditional" : "Kim Chang Joon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "3405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제1전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D02103102",
+  "subjectName" : "경제수학 (Mathematics for Economics)",
+  "professorNameMain" : "노택선",
+  "professorNameAdditional" : "Roh, Taek Seon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1501"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제1전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101401",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "이상직",
+  "professorNameAdditional" : "Sangjik Lee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제1전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101402",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "한경동",
+  "professorNameAdditional" : "Kyungdong Hahn",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3 ],
+    "room" : "3402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제1전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

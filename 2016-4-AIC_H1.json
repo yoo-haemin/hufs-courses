@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-중국언어문화학부(Division of Chinese Language, Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01111401",
+  "subjectName" : "중국문학개론 (Introduction to Chinese Literature)",
+  "professorNameMain" : "임원빈",
+  "professorNameAdditional" : "WONBIN YIM",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 12,
+  "maxNo" : 60,
+  "note" : "글로벌 중국어 통번역 전공/이중/부 미인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

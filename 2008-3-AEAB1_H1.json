@@ -1,0 +1,200 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02309201",
+  "subjectName" : "경제발전론 (Theory of Economic Development)",
+  "professorNameMain" : "김중렬",
+  "professorNameAdditional" : "Kim, Joong Ryul",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02302101",
+  "subjectName" : "경제정책론 (Theory of Economic Policy)",
+  "professorNameMain" : "김애실",
+  "professorNameAdditional" : "Kim Ae Sil",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "제1전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02464201",
+  "subjectName" : "산업조직론 (Theory of Industrial Organization)",
+  "professorNameMain" : "정인석",
+  "professorNameAdditional" : "In Suk Cheong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 6 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "P02402201",
+  "subjectName" : "지역비교경제론 (Regional and Comparative Economic Study)",
+  "professorNameMain" : "권원순",
+  "professorNameAdditional" : "Kwon Won Soon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02310101",
+  "subjectName" : "한국경제사 (Economic History of Korea)",
+  "professorNameMain" : "노택선",
+  "professorNameAdditional" : "Roh, Taek Seon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3205"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02302102",
+  "subjectName" : "경제정책론 (Theory of Economic Policy)",
+  "professorNameMain" : "신경수",
+  "professorNameAdditional" : "Shin, Kyung-Soo",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "강의시간.강의실변경(9/3)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02364102",
+  "subjectName" : "재무경제학 (Financial Economics)",
+  "professorNameMain" : "김창준(EC)",
+  "professorNameAdditional" : "Kim Chang Joon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5 ],
+    "room" : "3502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

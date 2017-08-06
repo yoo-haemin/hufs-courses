@@ -1,0 +1,206 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어통번역학과(Department of English Interpretation and Translation)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01569102",
+  "subjectName" : "문장구역및통역입문(1) (Sight Translation & Introduction to Interpreting(1))",
+  "professorNameMain" : "허윤수",
+  "professorNameAdditional" : "YunSoo Hur",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2209"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어통번역학과(Department of English Interpretation and Translation)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01571101",
+  "subjectName" : "영어프레젠테이션입문(1) (Introduction to English Presentation(1))",
+  "professorNameMain" : "Joseph R. Vincent",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어통번역학과(Department of English Interpretation and Translation)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01249101",
+  "subjectName" : "FLEX영어(1) (FLEX English (1))",
+  "professorNameMain" : "이원경",
+  "professorNameAdditional" : "Won Kyung Lee",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "(글로벌)영어통번역학부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어통번역학과(Department of English Interpretation and Translation)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01513301",
+  "subjectName" : "영.한순차통역(1) (English-into-Korean Consecutive Interpretation (1))",
+  "professorNameMain" : "허윤수",
+  "professorNameAdditional" : "YunSoo Hur",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2209"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "(서울)-영어통번역학과(Department of English Interpretation and Translation)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A01605101",
+  "subjectName" : "정치경제번역(1) (Translating Political & Economic texts(1))",
+  "professorNameMain" : "조윤주",
+  "professorNameAdditional" : "Cho Yoon Joo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "(글로벌)영어통번역학부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

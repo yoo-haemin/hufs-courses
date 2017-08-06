@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "언어와문학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "언어와문학",
+  "courseNumber" : "U76217401",
+  "subjectName" : "교양한자와한문 (General Chinese Characters and Writing)",
+  "professorNameMain" : "이지영",
+  "professorNameAdditional" : "Lee,Ji-young",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 14,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "언어와문학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "언어와문학",
+  "courseNumber" : "U71823101",
+  "subjectName" : "문학과성 (Literature and Sex)",
+  "professorNameMain" : "김용석",
+  "professorNameAdditional" : "KIM, Yong-Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 36,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "언어와문학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "언어와문학",
+  "courseNumber" : "U71807101",
+  "subjectName" : "언어와심리(교양) (Language and Psychology)",
+  "professorNameMain" : "김성규",
+  "professorNameAdditional" : "Kim. Sung-Gyu",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 41,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

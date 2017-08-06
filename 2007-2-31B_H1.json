@@ -1,0 +1,370 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71169101",
+  "subjectName" : "대중음악중국어 (Chinese Pop Music)",
+  "professorNameMain" : "홍병혜",
+  "professorNameAdditional" : "Hong Byung-hye",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5 ],
+    "room" : "2209"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5 ],
+    "room" : "2209"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71187101",
+  "subjectName" : "드라마일본어1 (Japanese in Drama 1)",
+  "professorNameMain" : "황봉모",
+  "professorNameAdditional" : "Hwang Bong Mo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5 ],
+    "room" : "2208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 37,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71187102",
+  "subjectName" : "드라마일본어1 (Japanese in Drama 1)",
+  "professorNameMain" : "정향재",
+  "professorNameAdditional" : "Chung, Hyangjae",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5 ],
+    "room" : "2402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "추가개설(5/28)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71159101",
+  "subjectName" : "생활스페인어1 (Daily Spanish 1)",
+  "professorNameMain" : "신태식",
+  "professorNameAdditional" : "Shin Tae Shig",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5 ],
+    "room" : "2210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71105101",
+  "subjectName" : "시사영어듣기와토론(중급) (Learning English in Journalism (Intermediate))",
+  "professorNameMain" : "유세영(E)",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "U71105102",
+  "subjectName" : "시사영어듣기와토론(중급) (Learning English in Journalism (Intermediate))",
+  "professorNameMain" : "윤영옥",
+  "professorNameAdditional" : "Young-Ok Yun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "추가개설(5/28)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 2,
+  "courseNumber" : "E01103301",
+  "subjectName" : "실용영문법(실외) (Practical English Grammar )",
+  "professorNameMain" : "오미숙",
+  "professorNameAdditional" : "O Mee-Sook",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2205"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 37,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 4,
+  "courseNumber" : "U71114101",
+  "subjectName" : "실용비즈니스영어 (Practical Business English)",
+  "professorNameMain" : "김미혜(실외)",
+  "professorNameAdditional" : "Kim Mihye",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "suggestedYear" : 4,
+  "courseNumber" : "U71112101",
+  "subjectName" : "영어에세이쓰기 (English Essay Writing)",
+  "professorNameMain" : "이진환",
+  "professorNameAdditional" : "Jin-Hwan Lee ",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2205"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2205"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

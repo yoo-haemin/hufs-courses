@@ -1,0 +1,181 @@
+[ {
+  "openYear" : 2005,
+  "openSemester" : 4,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 3,
+  "courseNumber" : "E11202101",
+  "subjectName" : "교육철학및교육사 (Introduction to Philosophy & History of Education)",
+  "professorNameMain" : "박주병",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 4,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 3,
+  "courseNumber" : "E11202102",
+  "subjectName" : "교육철학및교육사 (Introduction to Philosophy & History of Education)",
+  "professorNameMain" : "박주병",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6 ],
+    "room" : "1303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 20,
+  "note" : "추가개설(11/30)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 4,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 4,
+  "courseNumber" : "E11405101",
+  "subjectName" : "교육행정및학교경영 (Education Administration & School Management)",
+  "professorNameMain" : "이일권",
+  "professorNameAdditional" : "LEE IL KWEON",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "분반됨",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 4,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 4,
+  "courseNumber" : "E11405102",
+  "subjectName" : "교육행정및학교경영 (Education Administration & School Management)",
+  "professorNameMain" : "조성희",
+  "professorNameAdditional" : "sunghee, cho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "분반개설(11/30)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

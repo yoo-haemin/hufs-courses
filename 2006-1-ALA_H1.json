@@ -1,0 +1,453 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203301",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "조남신",
+  "professorNameAdditional" : "Cho Nam Shin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "제1전공자 수강, 전필",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203302",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "김중화",
+  "professorNameAdditional" : "Kim, Joongwha",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "제1전공자 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203303",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "송일",
+  "professorNameAdditional" : "Song Il",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "3404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "3501"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "강의실변경,제1전공자 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203304",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "송일",
+  "professorNameAdditional" : "Song Il",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3501"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "3501"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203305",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "신현길",
+  "professorNameAdditional" : "Hyon Kil Shin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203306",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "Kenneth park",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203307",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "김만인",
+  "professorNameAdditional" : "Kim, Marn-In",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "강의실변경,타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203308",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "박종혁",
+  "professorNameAdditional" : "Park Jong-Hyuk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 9 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 112,
+  "note" : "타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203309",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "이정훈",
+  "professorNameAdditional" : "YI, JUN HOON",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 90,
+  "note" : "타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203310",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "정경석",
+  "professorNameAdditional" : "Jung KyungSuk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 100,
+  "note" : "강의실변경,타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203311",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "김경순",
+  "professorNameAdditional" : "Kim Kyung Soon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "타과생 수강, \"",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100101",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "정영규",
+  "professorNameAdditional" : "Jeong,Young-kyu",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "6411"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 100,
+  "note" : "강의실변경,제1전공자 수강, 전필",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100102",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "정영규",
+  "professorNameAdditional" : "Jeong,Young-kyu",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "강의실변경,제1전공자 수강, \"",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100103",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "정영규",
+  "professorNameAdditional" : "Jeong,Young-kyu",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3 ],
+    "room" : "1501"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "6411"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "강의실변경,타과생 수강, \"",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100104",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "이경희",
+  "professorNameAdditional" : "Lee kyoung hee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3507"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "3507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "타과생 수강, \"",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100105",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "이경희",
+  "professorNameAdditional" : "Lee kyoung hee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3507"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "3507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "타과생 수강, \"",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "HUFS CAREER(서울)",
+  "openCampus" : "Seoul",
+  "area" : "HUFS CAREER",
+  "suggestedYear" : 2,
+  "courseNumber" : "Y12104201",
+  "subjectName" : "HUFS Career Design 진로설정과취.창업경력개발 (HUFS Career Design (Defining Career Path & Development))",
+  "professorNameMain" : "김소현",
+  "professorNameAdditional" : "Sohyun Kim",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 23,
+  "maxNo" : 100,
+  "note" : "* 2016년 이전 입학생 수강가능",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

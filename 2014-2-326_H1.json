@@ -1,0 +1,81 @@
+[ {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U71847101",
+  "subjectName" : "컴퓨터패션디자인 (Computer Fashion Design)",
+  "professorNameMain" : "류현정",
+  "professorNameAdditional" : "Ryu HyunJung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2104"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2104"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2104"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2104"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2104"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 20,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "과학과기술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "과학과기술",
+  "courseNumber" : "U76307101",
+  "subjectName" : "컴퓨터활용 (Practical Use Computer)",
+  "professorNameMain" : "한광덕",
+  "professorNameAdditional" : "Kwang Deok, Han",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1206"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

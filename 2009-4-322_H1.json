@@ -1,0 +1,181 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U54113201",
+  "subjectName" : "발칸유럽사회와문화 (Society & Culture of Balkan Europe)",
+  "professorNameMain" : "김철민",
+  "professorNameAdditional" : "Kim, Chul-Min",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U54119101",
+  "subjectName" : "서유럽사회와문화 (Society & Culture of West Europe)",
+  "professorNameMain" : "이상빈",
+  "professorNameAdditional" : "LEE Sangbin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "0206-1"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "0206-1"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "0206-1"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "0206-1"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "0206-1"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U76210101",
+  "subjectName" : "세계의음식문화와관광 (Global Food Culture and Tourism)",
+  "professorNameMain" : "서상현",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U54125101",
+  "subjectName" : "일본사회와문화 (Society & Culture of Japan)",
+  "professorNameMain" : "양익모",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "세계와문화(서울)",
+  "openCampus" : "Seoul",
+  "area" : "세계와문화",
+  "courseNumber" : "U76212101",
+  "subjectName" : "축제와여가문화 (Festive and Leisure Culture)",
+  "professorNameMain" : "공유식",
+  "professorNameAdditional" : "Kong, Yoo Sik",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

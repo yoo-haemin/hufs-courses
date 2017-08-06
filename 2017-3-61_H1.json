@@ -1,0 +1,65 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "군사학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "군사학",
+  "suggestedYear" : 3,
+  "courseNumber" : "U07304301",
+  "subjectName" : "군사학2 (Military Science 2)",
+  "professorNameMain" : "정연석",
+  "professorNameAdditional" : "Jeong, Yeon Seok",
+  "creditHour" : 2,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "군사학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "군사학",
+  "suggestedYear" : 4,
+  "courseNumber" : "U07303301",
+  "subjectName" : "군사학4 (Military Science 4)",
+  "professorNameMain" : "정연석",
+  "professorNameAdditional" : "Jeong, Yeon Seok",
+  "creditHour" : 2,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

@@ -1,0 +1,133 @@
+[ {
+  "openYear" : 2005,
+  "openSemester" : 2,
+  "openDept" : "교양특별강좌2(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양특별강좌2",
+  "courseNumber" : "U72215101",
+  "subjectName" : "면접화법 (Interview Speech)",
+  "professorNameMain" : "권화숙",
+  "professorNameAdditional" : "Kwon Hwa Suk",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "3401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 2,
+  "openDept" : "교양특별강좌2(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양특별강좌2",
+  "courseNumber" : "U72204101",
+  "subjectName" : "미국의글로벌정책과한국 (American Glabalization and Korea)",
+  "professorNameMain" : "배윤경",
+  "professorNameAdditional" : "BAE YUN KYOUNG",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 2,
+  "openDept" : "교양특별강좌2(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양특별강좌2",
+  "courseNumber" : "U72205101",
+  "subjectName" : "영화로읽는유럽문화 (European Culture in Cinema)",
+  "professorNameMain" : "이상빈",
+  "professorNameAdditional" : "LEE Sangbin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

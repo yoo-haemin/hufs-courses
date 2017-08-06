@@ -1,0 +1,171 @@
+[ {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-철학과(Department of Philosophy)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "R04202101",
+  "subjectName" : "서양근.현대철학사 (History of Western Modern & Contemporary Philosophy)",
+  "professorNameMain" : "신지영",
+  "professorNameAdditional" : "Shin Ji Young",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-철학과(Department of Philosophy)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "R01102101",
+  "subjectName" : "인식론 (Epistemology)",
+  "professorNameMain" : "구연상",
+  "professorNameAdditional" : "Gu, Yeonsang",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 2 ],
+    "room" : "1506"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2209"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-철학과(Department of Philosophy)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "R04388101",
+  "subjectName" : "노자철학 (Philosophy of Lao-tzu)",
+  "professorNameMain" : "박승현",
+  "professorNameAdditional" : "Park Seung Hyun",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3 ],
+    "room" : "0330"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-철학과(Department of Philosophy)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "R01312101",
+  "subjectName" : "서양문화철학 (Philosophy of Occidental Culture )",
+  "professorNameMain" : "장영란",
+  "professorNameAdditional" : "Chang, Young Ran",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0114"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4 ],
+    "room" : "0114"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-철학과(Department of Philosophy)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "R01209101",
+  "subjectName" : "동양인성론 (Oriental Human Nature Theory)",
+  "professorNameMain" : "석길암",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0218"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "0218"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-철학과(Department of Philosophy)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "R01412101",
+  "subjectName" : "후기구조주의철학 (Philosophy of Post-Structurism)",
+  "professorNameMain" : "박치완",
+  "professorNameAdditional" : "PARK, Tchi-Wan",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "2208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

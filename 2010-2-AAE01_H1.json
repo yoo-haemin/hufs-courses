@@ -1,0 +1,288 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스페인어과(Department of Spanish)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A05109201",
+  "subjectName" : "초급스페인어문법(1) (Elementary Spanish Grammar(1))",
+  "professorNameMain" : "양승관",
+  "professorNameAdditional" : "Yang. Seung Kwan",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2201"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2201"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2201"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2201"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "2201"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스페인어과(Department of Spanish)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A05115101",
+  "subjectName" : "초급스페인어쓰기(1) (Elementary Spanish Composition(1))",
+  "professorNameMain" : "남영우",
+  "professorNameAdditional" : "Nam, Young-Woo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스페인어과(Department of Spanish)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A05357201",
+  "subjectName" : "스페인문화사(1) (History of Spanish Culture (1))",
+  "professorNameMain" : "이만희",
+  "professorNameAdditional" : "Manhee LEE",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "용인 스페인어통번역 전공학점으로 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스페인어과(Department of Spanish)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A05237101",
+  "subjectName" : "중급스페인어쓰기(1) (Intermediate Spanish Composition (1))",
+  "professorNameMain" : "김승기",
+  "professorNameAdditional" : "KIM SEUNG KEE",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스페인어과(Department of Spanish)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A05235101",
+  "subjectName" : "중급스페인어읽기(1) (Readings in Intermediate Spanish (1))",
+  "professorNameMain" : "조구호",
+  "professorNameAdditional" : "Guho Cho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스페인어과(Department of Spanish)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A05341101",
+  "subjectName" : "중남미정치(1) (Latin American Politics (1))",
+  "professorNameMain" : "하상섭",
+  "professorNameAdditional" : "Sang-Sub, Ha",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스페인어과(Department of Spanish)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A05459101",
+  "subjectName" : "중남미문화사(1) (History of Latin American Culture (1))",
+  "professorNameMain" : "조구호",
+  "professorNameAdditional" : "Guho Cho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

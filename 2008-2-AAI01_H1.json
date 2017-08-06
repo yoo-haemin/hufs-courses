@@ -1,0 +1,41 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 2,
+  "openDept" : "(서울)-스칸디나비아어과(Department of Scandinavian Languages)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A09373101",
+  "subjectName" : "FLEX스웨덴어(1) (FLEX Swedish (1))",
+  "professorNameMain" : "박노호",
+  "professorNameAdditional" : "Park, No Ho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

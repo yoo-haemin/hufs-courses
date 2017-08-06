@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-일본언어문화전공(Japanese Language, Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02204801",
+  "subjectName" : "일본어문장연습 (Practice in Japanese Composition)",
+  "professorNameMain" : "김영주",
+  "professorNameAdditional" : "Kim youngju",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1211"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1211"
+  } ],
+  "applyNo" : 15,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-일본언어문화전공(Japanese Language, Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02276101",
+  "subjectName" : "현대일본어문법의이해 (Studies of Contemporary Japanese Grammer)",
+  "professorNameMain" : "구명회",
+  "professorNameAdditional" : "Koo Myounghoi",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1308"
+  } ],
+  "applyNo" : 13,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

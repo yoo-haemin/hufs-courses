@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "(서울)-터키.아제르바이잔어과(Department of Turkish and Azerbaijani)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B08112101",
+  "subjectName" : "초급터어키어문법(1) (Elementary Turkish Grammar (1))",
+  "professorNameMain" : "연규석",
+  "professorNameAdditional" : "Yeon Kyoo-Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

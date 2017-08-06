@@ -1,0 +1,353 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U74111201",
+  "subjectName" : "국제관계의이해 (Introduction to International Relation)",
+  "professorNameMain" : "유호근",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U72188101",
+  "subjectName" : "기업경영의이해 (Understanding of Corporate Management )",
+  "professorNameMain" : "김경순",
+  "professorNameAdditional" : "Kim Kyung Soon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U72188102",
+  "subjectName" : "기업경영의이해 (Understanding of Corporate Management )",
+  "professorNameMain" : "김경순",
+  "professorNameAdditional" : "Kim Kyung Soon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51319101",
+  "subjectName" : "매스컴의이해 (Comprehension of Mass Communication)",
+  "professorNameMain" : "최일도",
+  "professorNameAdditional" : "CHOI IL DO",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51319102",
+  "subjectName" : "매스컴의이해 (Comprehension of Mass Communication)",
+  "professorNameMain" : "최일도",
+  "professorNameAdditional" : "CHOI IL DO",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 7, 8 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51403201",
+  "subjectName" : "심리학의이해 (Introduction to Psychology)",
+  "professorNameMain" : "김영선(교양)",
+  "professorNameAdditional" : "Kim, young sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51403202",
+  "subjectName" : "심리학의이해 (Introduction to Psychology)",
+  "professorNameMain" : "김영선(교양)",
+  "professorNameAdditional" : "Kim, young sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U74102101",
+  "subjectName" : "현대사회와법 (Contemporary Society & Law)",
+  "professorNameMain" : "김천수",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

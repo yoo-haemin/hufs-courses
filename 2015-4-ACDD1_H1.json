@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "(서울)-광고·PR·브랜딩전공(Advertising·Public Relations·Branding)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "C03286101",
+  "subjectName" : "브랜드의이해 (Introduction to brand management)",
+  "professorNameMain" : "이효복",
+  "professorNameAdditional" : "Lee Hyo-bok",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3305"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌캠 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

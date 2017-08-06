@@ -1,0 +1,81 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "건강과레포츠(서울)",
+  "openCampus" : "Seoul",
+  "area" : "건강과레포츠",
+  "courseNumber" : "U76106101",
+  "subjectName" : "체육(요가) (Physical Education (Yoga))",
+  "professorNameMain" : "민성희",
+  "professorNameAdditional" : "Min Seung Hi",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "건강과레포츠(서울)",
+  "openCampus" : "Seoul",
+  "area" : "건강과레포츠",
+  "courseNumber" : "U71857101",
+  "subjectName" : "체육(휘트니스) (Physical Education(Fitness))",
+  "professorNameMain" : "원유미",
+  "professorNameAdditional" : "Won, Yu Mi",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

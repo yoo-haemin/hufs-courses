@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 4,
+  "openDept" : "(서울)-언론·정보전공(Journalism & Information)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "C03123101",
+  "subjectName" : "미디어와정치캠페인 (Media Politics Campaign)",
+  "professorNameMain" : "이상욱",
+  "professorNameAdditional" : "LEE SANG WOOK",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(글로벌) 전공/이중/부 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

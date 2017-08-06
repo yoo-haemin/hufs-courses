@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 2,
+  "openDept" : "역사와철학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "역사와철학",
+  "courseNumber" : "U76259101",
+  "subjectName" : "서양사의이해 (Understanding of Western History)",
+  "professorNameMain" : "김지영(HU)",
+  "professorNameAdditional" : "KIM, Jiyoung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 2,
+  "openDept" : "역사와철학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "역사와철학",
+  "courseNumber" : "U51108101",
+  "subjectName" : "신화와종교 (Myth & Religion)",
+  "professorNameMain" : "조명동",
+  "professorNameAdditional" : "Cho Myoung Dong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2013,
+  "openSemester" : 2,
+  "openDept" : "역사와철학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "역사와철학",
+  "courseNumber" : "U76263101",
+  "subjectName" : "이슬람사상의이해 (Understanding of Islamic Thought)",
+  "professorNameMain" : "신양섭",
+  "professorNameAdditional" : "Shin yangsup",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "0118"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "0118"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0118"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "0118"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "0118"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

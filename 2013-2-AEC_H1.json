@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2013,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D02103101",
+  "subjectName" : "경제수학 (Mathematics for Economics)",
+  "professorNameMain" : "김재경",
+  "professorNameAdditional" : "Kim, Jae kyung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 65,
+  "note" : "(글로벌) 국제경영,경영정보,경제학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

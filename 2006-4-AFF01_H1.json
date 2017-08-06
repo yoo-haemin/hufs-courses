@@ -1,0 +1,91 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 2,
+  "courseNumber" : "E11202201",
+  "subjectName" : "교육철학및교육사 (Introduction to Philosophy & History of Education)",
+  "professorNameMain" : "박주병",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 3,
+  "courseNumber" : "E11405201",
+  "subjectName" : "교육행정및학교경영 (Education Administration & School Management)",
+  "professorNameMain" : "김희규",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(선택)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(선택)",
+  "courseNumber" : "Y71116201",
+  "subjectName" : "드라마로배우는영어 (English in Drama)",
+  "professorNameMain" : "강선자",
+  "professorNameAdditional" : "Kang Seon Ja",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1204"
+  } ],
+  "applyNo" : 10,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

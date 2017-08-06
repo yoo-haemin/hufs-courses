@@ -1,0 +1,91 @@
+[ {
+  "openYear" : 2005,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203301",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "박종혁",
+  "professorNameAdditional" : "Park Jong-Hyuk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100101",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "정영규",
+  "professorNameAdditional" : "Jeong,Young-kyu",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "E11205101",
+  "subjectName" : "인간과교육 (Human & Education)",
+  "professorNameMain" : "김길룡",
+  "professorNameAdditional" : "Kim KilYong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "V43407301",
+  "subjectName" : "교육과정 (Curriculum Studies)",
+  "professorNameMain" : "최은정",
+  "professorNameAdditional" : "Choi, Eunjung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "E01304401",
+  "subjectName" : "영어교재연구및지도법 (Materials Development and Teaching Methods in ELT)",
+  "professorNameMain" : "이보경",
+  "professorNameAdditional" : "Lee Bo Kyung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2, 3, 4 ],
+    "room" : "0338"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 2, 3, 4 ],
+    "room" : "0338"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 2, 3, 4 ],
+    "room" : "0338"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 2, 3, 4 ],
+    "room" : "0338"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2, 3, 4 ],
+    "room" : "0338"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

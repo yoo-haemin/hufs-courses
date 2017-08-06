@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 3,
+  "courseNumber" : "R08318101",
+  "subjectName" : "출판콘텐츠분석과개발 (Analysis and Development of Printing Contents)",
+  "professorNameMain" : "이건웅",
+  "professorNameAdditional" : "Lee Gun Woong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 4,
+  "courseNumber" : "R08425101",
+  "subjectName" : "디지털미디어스토리텔링 (Study of Digital Media Storytelling)",
+  "professorNameMain" : "임동욱",
+  "professorNameAdditional" : "IM Dong Uk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

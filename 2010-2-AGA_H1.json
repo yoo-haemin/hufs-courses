@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101A01",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "5006"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "용인 국제경영학과 전공학점으로 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 2,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102A01",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6, 7 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7 ],
+    "room" : "5006"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7 ],
+    "room" : "5006"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "용인 경제학과 전공학점으로 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

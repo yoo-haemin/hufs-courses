@@ -1,0 +1,353 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "U51533101",
+  "subjectName" : "대중예술론 (An Understanding of the Popular Arts)",
+  "professorNameMain" : "송태현",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "U51533102",
+  "subjectName" : "대중예술론 (An Understanding of the Popular Arts)",
+  "professorNameMain" : "송태현",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "U72184101",
+  "subjectName" : "모던아트 (Modern Art )",
+  "professorNameMain" : "김형신",
+  "professorNameAdditional" : "Hyung Shin KIM",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 45,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "U51525101",
+  "subjectName" : "미술과생활 (Art & Life)",
+  "professorNameMain" : "주영은",
+  "professorNameAdditional" : "Joo, Young eun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "U51525102",
+  "subjectName" : "미술과생활 (Art & Life)",
+  "professorNameMain" : "주영은",
+  "professorNameAdditional" : "Joo, Young eun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 7, 8 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "Y51531101",
+  "subjectName" : "사진촬영과감상 (Photographing & Appreciation)",
+  "professorNameMain" : "이경민",
+  "professorNameAdditional" : "Lee, Kyung Min",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "U51539101",
+  "subjectName" : "연극의이해 (Understanding Theater)",
+  "professorNameMain" : "홍재웅",
+  "professorNameAdditional" : "Hong, Jai Ung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 7, 8 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 45,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "문학과예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문학과예술",
+  "courseNumber" : "U51527102",
+  "subjectName" : "음악과생활 (Music & Life)",
+  "professorNameMain" : "김남희",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 3, 4 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

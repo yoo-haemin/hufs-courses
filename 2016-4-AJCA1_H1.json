@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본언어문화전공(Japanese Language, Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02196201",
+  "subjectName" : "일본문학과문화 (Japanese Literature & Culture)",
+  "professorNameMain" : "금영진",
+  "professorNameAdditional" : "Keum, Young-Jin ",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2405"
+  } ],
+  "applyNo" : 23,
+  "maxNo" : 60,
+  "note" : "이중전공, 부전공 수강가능, 글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본언어문화전공(Japanese Language, Literature and Culture)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02197201",
+  "subjectName" : "일본어어휘의이해 (Studies of Japanese Lexicology)",
+  "professorNameMain" : "손경호",
+  "professorNameAdditional" : "Shon, Kyeong Ho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2202"
+  } ],
+  "applyNo" : 19,
+  "maxNo" : 60,
+  "note" : "이중전공, 부전공 수강가능, 글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D02103101",
+  "subjectName" : "경제수학 (Mathematics for Economics)",
+  "professorNameMain" : "김대종",
+  "professorNameAdditional" : "Kim Dae Jong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(글로벌)경제학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D03310101",
+  "subjectName" : "거시경제학 (Macroeconomics)",
+  "professorNameMain" : "김대종",
+  "professorNameAdditional" : "Kim Dae Jong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(글로벌)국제경영, 경영정보, 경제 전공인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경제학부(Division of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D02207101",
+  "subjectName" : "미시경제학 (Microeconomics)",
+  "professorNameMain" : "김나영",
+  "professorNameAdditional" : "Kim Nayoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(글로벌)국제경영, 경영정보, 경제 전공인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 3,
+  "courseNumber" : "R08340101",
+  "subjectName" : "인터넷과뉴미디어 (Internet and New Media)",
+  "professorNameMain" : "유제상",
+  "professorNameAdditional" : "Yu JaeSang",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 29,
+  "maxNo" : 60,
+  "note" : "글로벌 이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "(서울)-문화콘텐츠학전공(Cultural Contents Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 3,
+  "courseNumber" : "R08345101",
+  "subjectName" : "코리아타운과한류1 (Koreatown and Korean Wave 1)",
+  "professorNameMain" : "한동현",
+  "professorNameAdditional" : "Han, Dong Hyun",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 15,
+  "maxNo" : 60,
+  "note" : "글로벌 이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 3,
+  "courseNumber" : "E11315101",
+  "subjectName" : "특수교육의이해 (Understanding of Special Education)",
+  "professorNameMain" : "이윤옥",
+  "professorNameAdditional" : "Lee, YunOug",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2208"
+  } ],
+  "applyNo" : 25,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-교육학(Education)",
+  "openCampus" : "Seoul",
+  "area" : "교직",
+  "suggestedYear" : 3,
+  "courseNumber" : "E11456101",
+  "subjectName" : "학교폭력예방및학생의이해 (School Violence Prevention and Understanding of Student)",
+  "professorNameMain" : "이윤옥",
+  "professorNameAdditional" : "Lee, YunOug",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2208"
+  } ],
+  "applyNo" : 18,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

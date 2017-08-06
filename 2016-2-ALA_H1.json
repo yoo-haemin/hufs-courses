@@ -1,0 +1,288 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D03103101",
+  "subjectName" : "경영통계학 (Business Statistics)",
+  "professorNameMain" : "구지현",
+  "professorNameAdditional" : "KOO JEEHYUN",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C311"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C311"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C311"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C311"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C311"
+  } ],
+  "applyNo" : 41,
+  "maxNo" : 80,
+  "note" : "글로벌 국제경영, 국제금융, 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D03103102",
+  "subjectName" : "경영통계학 (Business Statistics)",
+  "professorNameMain" : "구지현",
+  "professorNameAdditional" : "KOO JEEHYUN",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 56,
+  "maxNo" : 80,
+  "note" : "글로벌 국제경영, 국제금융, 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203301",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "이우원",
+  "professorNameAdditional" : "Lee, Woowon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C401"
+  } ],
+  "applyNo" : 69,
+  "maxNo" : 80,
+  "note" : "글로벌 국제경영, 국제금융, 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203302",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "이혜리",
+  "professorNameAdditional" : "Lee Hye Ri",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C413"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C413"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C413"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C413"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C413"
+  } ],
+  "applyNo" : 30,
+  "maxNo" : 80,
+  "note" : "글로벌 국제경영, 국제금융, 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100101",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "이근영",
+  "professorNameAdditional" : "Lee, Keun-Yung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C408"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C408"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C408"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C408"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "C408"
+  } ],
+  "applyNo" : 22,
+  "maxNo" : 80,
+  "note" : "글로벌 국제경영, 국제금융 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205601",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "임채창",
+  "professorNameAdditional" : "CHAECHANG IM",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "C401"
+  } ],
+  "applyNo" : 55,
+  "maxNo" : 80,
+  "note" : "글로벌 국제경영, 국제금융, 경제학, 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205602",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "박보영",
+  "professorNameAdditional" : "Park, Boyoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3501"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3501"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3501"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3501"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3501"
+  } ],
+  "applyNo" : 61,
+  "maxNo" : 80,
+  "note" : "글로벌 국제경영, 국제금융, 경제학, 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

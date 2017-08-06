@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "(서울)-국제통상학과(Department of International Economics and Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102901",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "연제호",
+  "professorNameAdditional" : "Yeon Jeho",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 국제금융, 국제경영, 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "(서울)-국제통상학과(Department of International Economics and Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D02352201",
+  "subjectName" : "국제수지론 (International Balance of Payments)",
+  "professorNameMain" : "김장열",
+  "professorNameAdditional" : "JAN KIM",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "글로벌 경영정보 전공/이중/부 인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

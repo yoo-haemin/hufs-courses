@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "(서울)-프랑스어과(Department of French)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A02220101",
+  "subjectName" : "프랑스문화읽기 (Reading French Cultural Text)",
+  "professorNameMain" : "이상빈",
+  "professorNameAdditional" : "LEE Sangbin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "용인전공인정. 프랑스의이해, 현대프랑스사회와 동일",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "(서울)-프랑스어과(Department of French)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A02487101",
+  "subjectName" : "FLEX프랑스어 (FLEX French)",
+  "professorNameMain" : "서종석",
+  "professorNameAdditional" : "Soh Jong Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "용인 프랑스어과 전공 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "(서울)-프랑스어과(Department of French)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A02311201",
+  "subjectName" : "프랑스문학세미나 (Seminar on French Literature)",
+  "professorNameMain" : "이진홍",
+  "professorNameAdditional" : "Rhee. Zhin-Hong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "용인 프랑스어과 전공 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

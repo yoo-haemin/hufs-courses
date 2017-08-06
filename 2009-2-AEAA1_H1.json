@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 2,
+  "openDept" : "(서울)-국제통상학과(Department of International Economics and Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D01483101",
+  "subjectName" : "한국과세계경제 (Korea and World Economy)",
+  "professorNameMain" : "김장열",
+  "professorNameAdditional" : "JAN KIM",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(추가개설)타과생 수강신청 불가",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,271 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D03103102",
+  "subjectName" : "경영통계학 (Business Statistics)",
+  "professorNameMain" : "김경순",
+  "professorNameAdditional" : "Kim Kyung Soon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "추가개설",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205601",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "윤성용",
+  "professorNameAdditional" : "Sung-Yong Yoon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D03451201",
+  "subjectName" : "소비자행동론 (Theory of Consumer Behavior)",
+  "professorNameMain" : "남기매",
+  "professorNameAdditional" : "Nam, kimae",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D03210101",
+  "subjectName" : "운영관리 (Operation Management)",
+  "professorNameMain" : "최인규",
+  "professorNameAdditional" : "Choi, In Kyu",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01313101",
+  "subjectName" : "조직행위론 (Organizational Behavior)",
+  "professorNameMain" : "박종혁",
+  "professorNameAdditional" : "Park Jong-Hyuk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01313102",
+  "subjectName" : "조직행위론 (Organizational Behavior)",
+  "professorNameMain" : "박종혁",
+  "professorNameAdditional" : "Park Jong-Hyuk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

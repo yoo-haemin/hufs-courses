@@ -1,0 +1,241 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76269101",
+  "subjectName" : "광고.PR의이해 (The Understanding Advertising & PR)",
+  "professorNameMain" : "최창원",
+  "professorNameAdditional" : "Choi, Chang Won",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76275101",
+  "subjectName" : "마케팅이란무엇인가 (Basics of Marketing)",
+  "professorNameMain" : "한경열",
+  "professorNameAdditional" : "Han Kyung-Youl",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76280101",
+  "subjectName" : "성.사랑.결혼 (Sexuality, Love and Marriage)",
+  "professorNameMain" : "박남숙",
+  "professorNameAdditional" : "Park Nam Sook",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51403201",
+  "subjectName" : "심리학의이해 (Introduction to Psychology)",
+  "professorNameMain" : "김영선(교양)",
+  "professorNameAdditional" : "Kim, young sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51509201",
+  "subjectName" : "육아와아동심리 (Childcare and Child Psychology)",
+  "professorNameMain" : "이명조",
+  "professorNameAdditional" : "Lee, Myung-Jo ",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51519201",
+  "subjectName" : "현대인의정신건강 (Contemporary Mental Hygiene)",
+  "professorNameMain" : "정진복",
+  "professorNameAdditional" : "Jung Jinbok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

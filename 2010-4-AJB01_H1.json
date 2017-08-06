@@ -1,0 +1,124 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본어과(Department of Japanese)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02203101",
+  "subjectName" : "일본어현대문법 (Japanese Contemporary Grammar)",
+  "professorNameMain" : "신원선",
+  "professorNameAdditional" : "Shin, Wonsun ",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "용인일본어통번역학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본어과(Department of Japanese)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02380101",
+  "subjectName" : "시사일본어원서강독 (Current Japanese Readings in Original)",
+  "professorNameMain" : "오현수",
+  "professorNameAdditional" : "Oh Hyun Soo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "용인일본어통번역학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본어과(Department of Japanese)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B02365201",
+  "subjectName" : "일본경제 (Japanese Economy)",
+  "professorNameMain" : "강철구",
+  "professorNameAdditional" : "Kang, Cheol Gu",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "용인일본어통번역학과 전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,118 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "suggestedYear" : 4,
+  "courseNumber" : "Y21167201",
+  "subjectName" : "HUFS PathFinder 실전취.창업준비전략 (HUFS PathFinder)",
+  "professorNameMain" : "심영섭",
+  "professorNameAdditional" : "Shim, Young Seob",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1310"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "* 4학년 대상, 타대학교류생 불가, Pass/Fail과목",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "Y51125201",
+  "subjectName" : "기업가정신과창업 (Entrepreneurship & Foundation)",
+  "professorNameMain" : "김시홍",
+  "professorNameAdditional" : "Kim, Si Hong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ ],
+  "applyNo" : 0,
+  "maxNo" : 999,
+  "note" : "수강료무료, 타대학교류생 불가, Pass/Fail과목",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "Y91121201",
+  "subjectName" : "로켓을탄창업가들(창업이해및특강) (Rocket Ship Entrepreneurs)",
+  "professorNameMain" : "김종화",
+  "professorNameAdditional" : "Kim Jong Hwa",
+  "creditHour" : 1,
+  "classHour" : 1,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 100,
+  "note" : "주2회*2시간*4주, 16시간 이수 / 2016. 1.8(금) 보강, Pass/Fail과목",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "Y91120201",
+  "subjectName" : "실전!모의창업기획및실습 (Hands-on Business Startup Simulation)",
+  "professorNameMain" : "양덕모",
+  "professorNameAdditional" : "YANG DEOKMO",
+  "creditHour" : 1,
+  "classHour" : 1,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 100,
+  "note" : "주2회*2시간*4주, 16시간 이수, Pass/Fail과목",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

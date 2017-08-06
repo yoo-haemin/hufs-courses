@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-EU전공(EU Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 2,
+  "courseNumber" : "A22004201",
+  "subjectName" : "유럽단일시장 (European Single Market)",
+  "professorNameMain" : "박노호",
+  "professorNameAdditional" : "Park, No Ho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0330"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-EU전공(EU Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(제2)",
+  "suggestedYear" : 2,
+  "courseNumber" : "A22006201",
+  "subjectName" : "유럽의정체성과다문화주의 (Multi-culture and Identity in Europe)",
+  "professorNameMain" : "온대원",
+  "professorNameAdditional" : "Ohn, Daewon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

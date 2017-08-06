@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 3,
+  "openDept" : "(서울)-언어인지과학과(Department of Linguistics and Cognitive Science)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "R07309202",
+  "subjectName" : "컴퓨터언어학 (Computational Linguistics)",
+  "professorNameMain" : "천승미",
+  "professorNameAdditional" : "Seung Mi Cheon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "B1-13"
+  } ],
+  "applyNo" : 4,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 3,
+  "openDept" : "(서울)-언어인지과학과(Department of Linguistics and Cognitive Science)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "R07312101",
+  "subjectName" : "인지심리학 (Cognitive Psychology )",
+  "professorNameMain" : "전종섭",
+  "professorNameAdditional" : "Jong Sup Jun",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "2408"
+  } ],
+  "applyNo" : 4,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

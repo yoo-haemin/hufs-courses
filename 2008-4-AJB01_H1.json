@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본어과(Department of Japanese)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B02124101",
+  "subjectName" : "일본문화의이해(2) (Understanding of Japanese Culture (2))",
+  "professorNameMain" : "김미정",
+  "professorNameAdditional" : "KIM MI JUNG",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0330"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

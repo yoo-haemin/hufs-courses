@@ -1,0 +1,41 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "U71877101",
+  "subjectName" : "프레젠테이션스킬개발 (Presentation Skill Development)",
+  "professorNameMain" : "강화석",
+  "professorNameAdditional" : "Kang Hwa Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 17,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

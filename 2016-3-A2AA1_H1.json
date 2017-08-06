@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 3,
+  "openDept" : "(서울)-Language & Trade전공(Language & Trade)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01490101",
+  "subjectName" : "International Trade : Theory, Policy and Practice",
+  "professorNameMain" : "강유덕",
+  "professorNameAdditional" : "Kang, Yoo Duk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C407"
+  } ],
+  "applyNo" : 4,
+  "maxNo" : 40,
+  "note" : "1전공/LD전용수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2016,
+  "openSemester" : 3,
+  "openDept" : "(서울)-Language & Trade전공(Language & Trade)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01496101",
+  "subjectName" : "International Trade Law",
+  "professorNameMain" : "이지수",
+  "professorNameAdditional" : "Lee Ji Soo",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C309"
+  } ],
+  "applyNo" : 2,
+  "maxNo" : 40,
+  "note" : "1전공/LD전용수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

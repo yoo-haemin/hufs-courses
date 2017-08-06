@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "E04132201",
+  "subjectName" : "외국어로서의한국어어휘교육론 (Studies on Teaching Lexicon of Korean as a Foreign Language)",
+  "professorNameMain" : "김은정(연)",
+  "professorNameAdditional" : "Kim Eun Joung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6, 7 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7 ],
+    "room" : "2202"
+  } ],
+  "applyNo" : 13,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-한국어교육과(Department of Korean Education)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "E04369101",
+  "subjectName" : "외국어로서의한국어교육과정및교재론 (Curriculums and Materials of Korean Education for Foreigners)",
+  "professorNameMain" : "서경혜",
+  "professorNameAdditional" : "Seo,Geong-hei",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8, 9, 10 ],
+    "room" : "2204"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 8, 9, 10 ],
+    "room" : "2204"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 8, 9, 10 ],
+    "room" : "2204"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 8, 9, 10 ],
+    "room" : "2204"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8, 9, 10 ],
+    "room" : "2204"
+  } ],
+  "applyNo" : 4,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

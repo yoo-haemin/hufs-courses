@@ -1,0 +1,22 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "(서울)-일본학부(Japanese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B02876101",
+  "subjectName" : "일본문화여행 (Visit to Japanese Culture)",
+  "professorNameMain" : "박용구",
+  "professorNameAdditional" : "Yong Koo, PARK",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "교류대생 수강금지",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

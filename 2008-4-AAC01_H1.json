@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03392101",
+  "subjectName" : "전공FLEX독일어2 (Preparation Course for FLEX German 2)",
+  "professorNameMain" : "강병창",
+  "professorNameAdditional" : "Kang, Byongchang",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "5003"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "5003"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "5003"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "5003"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "5003"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "독일어교육과 ,용인캠퍼스 독일어통번역학과전공인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

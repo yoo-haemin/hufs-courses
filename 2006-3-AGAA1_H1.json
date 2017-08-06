@@ -1,0 +1,113 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "C01324301",
+  "subjectName" : "국제법 (International Law)",
+  "professorNameMain" : "이광은",
+  "professorNameAdditional" : "Gwang Eun Lee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0328"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "영어강의,전필",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D02352501",
+  "subjectName" : "국제수지론 (International Finance and Balance of Payments)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "영어강의,전필",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01467301",
+  "subjectName" : "국제통상론 (Trade Issues and Policies)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6 ],
+    "room" : "3406"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "영어강의,전필",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01303101",
+  "subjectName" : "미국정치와외교정책 (American Politics and Foreign Policy)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 6 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "4학년수강불가,영어강의",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

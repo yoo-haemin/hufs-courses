@@ -1,0 +1,81 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "U76323101",
+  "subjectName" : "국가정보의이해 (The Understanding on National Intelligence)",
+  "professorNameMain" : "한기수",
+  "professorNameAdditional" : "Han, Kee Soo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "U72193101",
+  "subjectName" : "인간관계와갈등관리 (Social Relation and Conflict Management )",
+  "professorNameMain" : "연미영",
+  "professorNameAdditional" : "Yeon Mi Young",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

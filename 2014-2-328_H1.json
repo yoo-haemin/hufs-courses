@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "U72226101",
+  "subjectName" : "리더십과커뮤니케이션 (Leadership and Communication)",
+  "professorNameMain" : "강화석",
+  "professorNameAdditional" : "Kang Hwa Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "3302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "U72164101",
+  "subjectName" : "매경경제경영콘서트 (Maekyung Economy and Business Concert)",
+  "professorNameMain" : "김재진",
+  "professorNameAdditional" : "Kim, Jae-Jin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3408"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3408"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3408"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3408"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "Pass/Fail성적평가",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2014,
+  "openSemester" : 2,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "U71877101",
+  "subjectName" : "프레젠테이션스킬개발 (Presentation Skill Development)",
+  "professorNameMain" : "강화석",
+  "professorNameAdditional" : "Kang Hwa Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

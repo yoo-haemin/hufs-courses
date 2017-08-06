@@ -1,0 +1,171 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203307",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "신현길",
+  "professorNameAdditional" : "Hyon Kil Shin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5 ],
+    "room" : "3403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203308",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "송일",
+  "professorNameAdditional" : "Song Il",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "3501"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "3501"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 90,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203309",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "김중화",
+  "professorNameAdditional" : "Kim, Joongwha",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3501"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 90,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01203317",
+  "subjectName" : "경영학원론 (Principles of Business Management)",
+  "professorNameMain" : "박종혁",
+  "professorNameAdditional" : "Park Jong-Hyuk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5 ],
+    "room" : "3506"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1 ],
+    "room" : "3507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "추가개설(3/6)",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100103",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "이영환",
+  "professorNameAdditional" : "Lee, Young Hwan",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01100104",
+  "subjectName" : "경제학원론 (Principles of Economics)",
+  "professorNameMain" : "유옥란",
+  "professorNameAdditional" : "Yoo, Ock Ran",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 2 ],
+    "room" : "3502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

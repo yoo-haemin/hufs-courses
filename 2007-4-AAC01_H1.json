@@ -1,0 +1,165 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03106101",
+  "subjectName" : "독일어강독연습2 (Practice in German Text 2)",
+  "professorNameMain" : "조규희",
+  "professorNameAdditional" : "Cho, Kyuhee",
+  "creditHour" : 4,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03108101",
+  "subjectName" : "독일어강독연습4 (Practice in German Text 4)",
+  "professorNameMain" : "함희정",
+  "professorNameAdditional" : "Hee-Jeong Ham",
+  "creditHour" : 4,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2504"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2504"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2504"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2504"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03120101",
+  "subjectName" : "독일어회화2 (Conversation in German Language 2)",
+  "professorNameMain" : "Bernhard Vierthaler",
+  "professorNameAdditional" : "",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 4,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "E03208101",
+  "subjectName" : "활용독일어4 (Practical Use German 4)",
+  "professorNameMain" : "도현정",
+  "professorNameAdditional" : "HyunJung, Do",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2409"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2409"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2409"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2409"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "2409"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

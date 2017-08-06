@@ -1,0 +1,201 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76269101",
+  "subjectName" : "광고.PR의이해 (The Understanding Advertising & PR)",
+  "professorNameMain" : "오주연",
+  "professorNameAdditional" : "oh joo yeon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76280101",
+  "subjectName" : "성.사랑.결혼 (Sexuality, Love and Marriage)",
+  "professorNameMain" : "이미화",
+  "professorNameAdditional" : "Lee Mi Hwa",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0329"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51403201",
+  "subjectName" : "심리학의이해 (Introduction to Psychology)",
+  "professorNameMain" : "김영선(교양)",
+  "professorNameAdditional" : "Kim, young sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "0329"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U74119101",
+  "subjectName" : "현대경제의기초원리 (Fundamental Principle of Contemporary Economics)",
+  "professorNameMain" : "최병일",
+  "professorNameAdditional" : "Choi Byoung Il",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51519201",
+  "subjectName" : "현대인의정신건강 (Contemporary Mental Hygiene)",
+  "professorNameMain" : "정진복",
+  "professorNameAdditional" : "Jung Jinbok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

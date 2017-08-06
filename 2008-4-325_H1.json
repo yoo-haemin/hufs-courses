@@ -1,0 +1,241 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76275101",
+  "subjectName" : "마케팅이란무엇인가 (Basics of Marketing)",
+  "professorNameMain" : "한경열",
+  "professorNameAdditional" : "Han Kyung-Youl",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76278101",
+  "subjectName" : "방송.영상의이해 (Understanding Television & Visual Culture)",
+  "professorNameMain" : "윤상호",
+  "professorNameAdditional" : "Youn Sang Ho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "3405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U76280101",
+  "subjectName" : "성.사랑.결혼 (Sexuality, Love and Marriage)",
+  "professorNameMain" : "정영선",
+  "professorNameAdditional" : "Young-Seon Jeong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "5001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51403201",
+  "subjectName" : "심리학의이해 (Introduction to Psychology)",
+  "professorNameMain" : "김영선(교양)",
+  "professorNameAdditional" : "Kim, young sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "5001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U74119101",
+  "subjectName" : "현대경제의기초원리 (Fundamental Principle of Contemporary Economics)",
+  "professorNameMain" : "정영규",
+  "professorNameAdditional" : "Jeong,Young-kyu",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "5001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "정보와사회(서울)",
+  "openCampus" : "Seoul",
+  "area" : "정보와사회",
+  "courseNumber" : "U51519201",
+  "subjectName" : "현대인의정신건강 (Contemporary Mental Hygiene)",
+  "professorNameMain" : "김영선(교양)",
+  "professorNameAdditional" : "Kim, young sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "5001"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "5001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

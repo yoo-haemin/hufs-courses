@@ -1,0 +1,2214 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13108201",
+  "subjectName" : "교양노어2 (Communicative Russian 2)",
+  "professorNameMain" : "손현익",
+  "professorNameAdditional" : "Son Hyunik",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13106201",
+  "subjectName" : "교양독일어2 (Communicative German 2)",
+  "professorNameMain" : "윤석진",
+  "professorNameAdditional" : "Youn, Sokjin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13106202",
+  "subjectName" : "교양독일어2 (Communicative German 2)",
+  "professorNameMain" : "조규희",
+  "professorNameAdditional" : "Cho, Kyuhee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13122201",
+  "subjectName" : "교양말레이.인도네시아어2 (Communicative Malay-Indonesian 2)",
+  "professorNameMain" : "원순구",
+  "professorNameAdditional" : "Won Soon-Goo",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10, 11 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13124201",
+  "subjectName" : "교양베트남어2 (Communicative Vietnamese 2)",
+  "professorNameMain" : "Ho Thi Long An",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13128201",
+  "subjectName" : "교양스와힐리어2 (Communicative Swahili 2)",
+  "professorNameMain" : "양철준",
+  "professorNameAdditional" : "YANG CHUL JOON",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13110201",
+  "subjectName" : "교양스페인어2 (Communicative Spanish 2)",
+  "professorNameMain" : "정경원",
+  "professorNameAdditional" : "Chung, Kyung Won",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13110202",
+  "subjectName" : "교양스페인어2 (Communicative Spanish 2)",
+  "professorNameMain" : "이원영",
+  "professorNameAdditional" : "Lee, Won Young",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13110203",
+  "subjectName" : "교양스페인어2 (Communicative Spanish 2)",
+  "professorNameMain" : "박호진",
+  "professorNameAdditional" : "Park Ho Jin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13110204",
+  "subjectName" : "교양스페인어2 (Communicative Spanish 2)",
+  "professorNameMain" : "이인훈",
+  "professorNameAdditional" : "Lee In Hoon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13110205",
+  "subjectName" : "교양스페인어2 (Communicative Spanish 2)",
+  "professorNameMain" : "최미경",
+  "professorNameAdditional" : "Choe, Migyeong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13110206",
+  "subjectName" : "교양스페인어2 (Communicative Spanish 2)",
+  "professorNameMain" : "최지영",
+  "professorNameAdditional" : "JI YOUNG, CHOI",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13120201",
+  "subjectName" : "교양아랍어2 (Communicative Arabic 2)",
+  "professorNameMain" : "서정민",
+  "professorNameAdditional" : "Seo, Jung Min",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102201",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102202",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102203",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102204",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "최진선",
+  "professorNameAdditional" : "Jinsun Choe",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102205",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "최진선",
+  "professorNameAdditional" : "Jinsun Choe",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102206",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "최진선",
+  "professorNameAdditional" : "Jinsun Choe",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102207",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "최진선",
+  "professorNameAdditional" : "Jinsun Choe",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102208",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102209",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Stephanie Ann Ptak",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102210",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Stephanie Ann Ptak",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102211",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Stephanie Ann Ptak",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102212",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Stephanie Ann Ptak",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102213",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "안소연",
+  "professorNameAdditional" : "Ahn, So-Yeon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102214",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "안소연",
+  "professorNameAdditional" : "Ahn, So-Yeon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102215",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "안소연",
+  "professorNameAdditional" : "Ahn, So-Yeon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102216",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102217",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102218",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 5,
+  "note" : "평화(2등급)(14학번 이전 수강가능)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102219",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102220",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "안소연",
+  "professorNameAdditional" : "Ahn, So-Yeon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102221",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102222",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 5,
+  "note" : "평화(2등급)(14학번 이전 수강가능)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102223",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102224",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102225",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Daniel Deacon",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102226",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Daniel Deacon",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102227",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Daniel Deacon",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102228",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 5,
+  "note" : "평화(2등급)(14학번 이전 수강가능)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102229",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102230",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102231",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102232",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Michael Madill",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102233",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Michael Madill",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102234",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Michael Madill",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 5,
+  "note" : "평화(2등급)(14학번 이전 수강가능)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102235",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102236",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102237",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Michael Madill",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102238",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "진리(1등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102239",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 8 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "진리(1등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102240",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "진리(1등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102241",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "진리(1등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102242",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "정유진(Olivia Chung)",
+  "professorNameAdditional" : "Olivia Chung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 5,
+  "note" : "평화(2등급)(14학번 이전 수강가능)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102243",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "정유진(Olivia Chung)",
+  "professorNameAdditional" : "Olivia Chung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102244",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "조민영",
+  "professorNameAdditional" : "Cho, Minyoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102245",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "Daniel Deacon",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "평화(2등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102246",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "조민영",
+  "professorNameAdditional" : "Cho, Minyoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102247",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "조민영",
+  "professorNameAdditional" : "Cho, Minyoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13102248",
+  "subjectName" : "교양영어2 (Communicative English 2)",
+  "professorNameMain" : "조민영",
+  "professorNameAdditional" : "Cho, Minyoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 2 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 0,
+  "note" : "창조(3등급)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13112201",
+  "subjectName" : "교양이탈리아어2 (Communicative Italian 2)",
+  "professorNameMain" : "조성윤",
+  "professorNameAdditional" : "CHO SUNG YUN",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 2 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13118201",
+  "subjectName" : "교양일본어2 (Communicative Japanese 2)",
+  "professorNameMain" : "윤상현",
+  "professorNameAdditional" : "Youn SangHyun",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13118202",
+  "subjectName" : "교양일본어2 (Communicative Japanese 2)",
+  "professorNameMain" : "송은혜",
+  "professorNameAdditional" : "Song Eun Hye",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13118203",
+  "subjectName" : "교양일본어2 (Communicative Japanese 2)",
+  "professorNameMain" : "최숙이",
+  "professorNameAdditional" : "Choi Sook Yee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13118204",
+  "subjectName" : "교양일본어2 (Communicative Japanese 2)",
+  "professorNameMain" : "김수경",
+  "professorNameAdditional" : "Kim, Sukyung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13118205",
+  "subjectName" : "교양일본어2 (Communicative Japanese 2)",
+  "professorNameMain" : "강운경",
+  "professorNameAdditional" : "Kang WoonKyung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13116201",
+  "subjectName" : "교양중국어2 (Communicative Chinese 2)",
+  "professorNameMain" : "서한용",
+  "professorNameAdditional" : "Shu, han-yong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13116202",
+  "subjectName" : "교양중국어2 (Communicative Chinese 2)",
+  "professorNameMain" : "이혁",
+  "professorNameAdditional" : "Lee Hyouk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13116203",
+  "subjectName" : "교양중국어2 (Communicative Chinese 2)",
+  "professorNameMain" : "신세리",
+  "professorNameAdditional" : "Shin Seri",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13116204",
+  "subjectName" : "교양중국어2 (Communicative Chinese 2)",
+  "professorNameMain" : "임원빈",
+  "professorNameAdditional" : "WONBIN YIM",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13116205",
+  "subjectName" : "교양중국어2 (Communicative Chinese 2)",
+  "professorNameMain" : "손미령(C)",
+  "professorNameAdditional" : "Son Mi Ryung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13116206",
+  "subjectName" : "교양중국어2 (Communicative Chinese 2)",
+  "professorNameMain" : "김혜영",
+  "professorNameAdditional" : "Kim, Haeyoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13116207",
+  "subjectName" : "교양중국어2 (Communicative Chinese 2)",
+  "professorNameMain" : "정중석",
+  "professorNameAdditional" : "Jung JoongSeck",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13114201",
+  "subjectName" : "교양포르투갈어2 (Communicative Portuguese 2)",
+  "professorNameMain" : "정재민",
+  "professorNameAdditional" : "JAE MIN CHUNG",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13104201",
+  "subjectName" : "교양프랑스어2 (Communicative French 2)",
+  "professorNameMain" : "임민지",
+  "professorNameAdditional" : "IM MINJEE",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 3,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13104202",
+  "subjectName" : "교양프랑스어2 (Communicative French 2)",
+  "professorNameMain" : "주향은",
+  "professorNameAdditional" : "Ju Hyang-Eun",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "-"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "-"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 3,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

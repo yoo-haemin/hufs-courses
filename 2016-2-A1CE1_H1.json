@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-EICC학과(Department of English for International Conferences and Communication)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A01697101",
+  "subjectName" : "Foundations of Interpreting and Translation (1)",
+  "professorNameMain" : "조재범",
+  "professorNameAdditional" : "CHO,JAEBUM",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1303"
+  } ],
+  "applyNo" : 14,
+  "maxNo" : 35,
+  "note" : "글로벌 영통학부 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "(서울)-EICC학과(Department of English for International Conferences and Communication)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A01253201",
+  "subjectName" : "English-Korean Translation (1)",
+  "professorNameMain" : "최중범",
+  "professorNameAdditional" : "Choi Jung-Baum",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0221"
+  } ],
+  "applyNo" : 8,
+  "maxNo" : 35,
+  "note" : "글로벌 영통학부 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

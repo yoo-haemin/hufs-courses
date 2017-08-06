@@ -1,0 +1,26 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 1,
+  "openDept" : "(서울)-일본학부(Japanese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B02156102",
+  "subjectName" : "프레젠테이션일본어 (Japanese Presentation)",
+  "professorNameMain" : "Ogihara Saeko",
+  "professorNameAdditional" : "",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "B2-20"
+  } ],
+  "applyNo" : 9,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

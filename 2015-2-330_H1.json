@@ -1,0 +1,81 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "언어와문학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "언어와문학",
+  "courseNumber" : "U76217401",
+  "subjectName" : "교양한자와한문 (General Chinese Characters and Writing)",
+  "professorNameMain" : "이지영",
+  "professorNameAdditional" : "Lee,Ji-young",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "언어와문학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "언어와문학",
+  "courseNumber" : "U72139301",
+  "subjectName" : "문학과영화 (Literature and Cinema)",
+  "professorNameMain" : "윤석진",
+  "professorNameAdditional" : "Youn, Sokjin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1408"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1408"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1408"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1408"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

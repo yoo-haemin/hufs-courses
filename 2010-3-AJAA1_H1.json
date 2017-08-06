@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 3,
+  "openDept" : "(서울)-일본어학전공(Japanese Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02822101",
+  "subjectName" : "일본어학의이해(2) (Understanding of Japanese Linguistics(2))",
+  "professorNameMain" : "김동규",
+  "professorNameAdditional" : "KIMDONGKYU",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1506"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 3,
+  "openDept" : "(서울)-일본어학전공(Japanese Linguistics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02822102",
+  "subjectName" : "일본어학의이해(2) (Understanding of Japanese Linguistics(2))",
+  "professorNameMain" : "임팔용",
+  "professorNameAdditional" : "Lim, Pal Yong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2204"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "2학년 일본어학전공자",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

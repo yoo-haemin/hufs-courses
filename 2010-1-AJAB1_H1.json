@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 1,
+  "openDept" : "(서울)-일본문학전공(Japanese Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02823101",
+  "subjectName" : "일본문학의이해(1) (Understanding of Japanese Literature(1))",
+  "professorNameMain" : "김종덕",
+  "professorNameAdditional" : "Kim Jong Duck",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1305"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "2학년 일본문학전공자",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 1,
+  "openDept" : "(서울)-일본문학전공(Japanese Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02823102",
+  "subjectName" : "일본문학의이해(1) (Understanding of Japanese Literature(1))",
+  "professorNameMain" : "이신혜",
+  "professorNameAdditional" : "lee shinhye",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

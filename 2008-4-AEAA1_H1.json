@@ -1,0 +1,42 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 4,
+  "openDept" : "(서울)-국제통상학과(Department of International Economics and Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101101",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "김장열",
+  "professorNameAdditional" : "JAN KIM",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

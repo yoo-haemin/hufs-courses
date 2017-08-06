@@ -1,0 +1,247 @@
+[ {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71151101",
+  "subjectName" : "실용스페인어1 (Practical Spanish 1)",
+  "professorNameMain" : "김승기",
+  "professorNameAdditional" : "KIM SEUNG KEE",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2, 3, 4 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 2, 3, 4 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 2, 3, 4 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 2, 3, 4 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2, 3, 4 ],
+    "room" : "1405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101201",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0221"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101202",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0221"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101203",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6, 7 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7 ],
+    "room" : "0211"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7 ],
+    "room" : "0211"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71102201",
+  "subjectName" : "실용영어2 (Practical English 2)",
+  "professorNameMain" : "Daniel Rhodes",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0328"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "0328"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2012,
+  "openSemester" : 2,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71102202",
+  "subjectName" : "실용영어2 (Practical English 2)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0225"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "0225"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

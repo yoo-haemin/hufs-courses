@@ -1,0 +1,227 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03327101",
+  "subjectName" : "독일문화의이해1 (Understanding German Culture 1)",
+  "professorNameMain" : "장은수",
+  "professorNameAdditional" : "JANG, Eun-Soo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ ],
+  "applyNo" : 37,
+  "maxNo" : 43,
+  "note" : "이중전공우선수강, 수강인원 40명 제한, 글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03101701",
+  "subjectName" : "초급독일어1 (Basic German 1)",
+  "professorNameMain" : "이완호",
+  "professorNameAdditional" : "Wan-Ho Lee",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2203"
+  } ],
+  "applyNo" : 19,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03505101",
+  "subjectName" : "독일EU정책 (Germany's EU Policy)",
+  "professorNameMain" : "김일곤",
+  "professorNameAdditional" : "KIM, IL GON",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 28,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03467301",
+  "subjectName" : "독일지역사정(역사) (German Studies(History))",
+  "professorNameMain" : "류용상",
+  "professorNameAdditional" : "Yong-Sang Lyu",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 16,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03483101",
+  "subjectName" : "독일명작의이해 (Understanding Classics in German Literature)",
+  "professorNameMain" : "서송석",
+  "professorNameAdditional" : "Suh song suk",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2208"
+  } ],
+  "applyNo" : 16,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03391101",
+  "subjectName" : "전공FLEX독일어1 (Preparation Course for FLEX German 1)",
+  "professorNameMain" : "최경인",
+  "professorNameAdditional" : "Kyoung In Choe",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 19,
+  "maxNo" : 40,
+  "note" : "글로벌 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

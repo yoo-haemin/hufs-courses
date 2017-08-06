@@ -1,0 +1,161 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "U76210401",
+  "subjectName" : "글로벌음식문화 (Global Food Culture)",
+  "professorNameMain" : "김용석",
+  "professorNameAdditional" : "KIM, Yong-Seok",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "Y21126201",
+  "subjectName" : "뮤지컬의이해와감상 (Understanding and Apprectiation of Musical)",
+  "professorNameMain" : "서정미",
+  "professorNameAdditional" : "Seo Jeong Mi",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "U54119401",
+  "subjectName" : "서유럽문화의이해 (Culture of Western Europe)",
+  "professorNameMain" : "김요한",
+  "professorNameAdditional" : "Kim, Johann",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2015,
+  "openSemester" : 2,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "U76243101",
+  "subjectName" : "영화의이해와감상 (Understanding Film)",
+  "professorNameMain" : "이정욱",
+  "professorNameAdditional" : "Lee Jeung Wook",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "6226"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,2748 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71141101",
+  "subjectName" : "실용노어1 (Practical Russian 1)",
+  "professorNameMain" : "송희정",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "2501"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2501"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71141102",
+  "subjectName" : "실용노어1 (Practical Russian 1)",
+  "professorNameMain" : "김영태",
+  "professorNameAdditional" : "Young-Tae Kim",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "2503"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "2503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71131101",
+  "subjectName" : "실용독일어1 (Practical German 1)",
+  "professorNameMain" : "서은주",
+  "professorNameAdditional" : "Eun Ju Suh",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 9 ],
+    "room" : "2503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71131102",
+  "subjectName" : "실용독일어1 (Practical German 1)",
+  "professorNameMain" : "김종대",
+  "professorNameAdditional" : "Jongdae Kim",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71131103",
+  "subjectName" : "실용독일어1 (Practical German 1)",
+  "professorNameMain" : "김해생",
+  "professorNameAdditional" : "Kim Haesaeng",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "2105"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9 ],
+    "room" : "2105"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71221101",
+  "subjectName" : "실용말레이.인도네시아어1 (Practical Malay-Indonesian 1)",
+  "professorNameMain" : "원순구",
+  "professorNameAdditional" : "Won Soon-Goo",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "2509"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71241101",
+  "subjectName" : "실용베트남어1 (Practical Vietnamese 1)",
+  "professorNameMain" : "윤승연",
+  "professorNameAdditional" : "Yoon Sung-Yeon",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "2502"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "2502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71261101",
+  "subjectName" : "실용스와힐리어1 (Practical Swahili 1)",
+  "professorNameMain" : "양철준",
+  "professorNameAdditional" : "YANG CHUL JOON",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 9, 10 ],
+    "room" : "2203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71151101",
+  "subjectName" : "실용스페인어1 (Practical Spanish 1)",
+  "professorNameMain" : "김광희",
+  "professorNameAdditional" : "Kwanghee Kim",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1305"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9 ],
+    "room" : "1204"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71151102",
+  "subjectName" : "실용스페인어1 (Practical Spanish 1)",
+  "professorNameMain" : "김승기",
+  "professorNameAdditional" : "KIM SEUNG KEE",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71151103",
+  "subjectName" : "실용스페인어1 (Practical Spanish 1)",
+  "professorNameMain" : "최윤국",
+  "professorNameAdditional" : "Choi Yoon-kook",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71151104",
+  "subjectName" : "실용스페인어1 (Practical Spanish 1)",
+  "professorNameMain" : "조구호",
+  "professorNameAdditional" : "Guho Cho",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71151105",
+  "subjectName" : "실용스페인어1 (Practical Spanish 1)",
+  "professorNameMain" : "이한철",
+  "professorNameAdditional" : "leehanchul",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71151106",
+  "subjectName" : "실용스페인어1 (Practical Spanish 1)",
+  "professorNameMain" : "이원영",
+  "professorNameAdditional" : "Lee, Won Young",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 8, 9, 10 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 35,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71231101",
+  "subjectName" : "실용아랍어1 (Practical Arabic 1)",
+  "professorNameMain" : "김정명",
+  "professorNameAdditional" : "Kim, Jeoung-Myoung",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "2403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71231102",
+  "subjectName" : "실용아랍어1 (Practical Arabic 1)",
+  "professorNameMain" : "김재희",
+  "professorNameAdditional" : "Kim Jae Hee",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "2403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "2403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101201",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Dean Dawson",
+  "professorNameAdditional" : "Dean Dawson ",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1609"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101202",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Daniel Rhodes",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1608"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1 ],
+    "room" : "1507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101203",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "01202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101204",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1606"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1 ],
+    "room" : "1408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101205",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Georges J. Kim",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1607"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1 ],
+    "room" : "1504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101206",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Dean Dawson",
+  "professorNameAdditional" : "Dean Dawson ",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1609"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101207",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Daniel Rhodes",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1608"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "1507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101208",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "01202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101209",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1606"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "1408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101210",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Georges J. Kim",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1607"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "1504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101211",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Dean Dawson",
+  "professorNameAdditional" : "Dean Dawson ",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101212",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Daniel Rhodes",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1508"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101213",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "01202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101214",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1609"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101215",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Georges J. Kim",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101216",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Dean Dawson",
+  "professorNameAdditional" : "Dean Dawson ",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1204"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101217",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Daniel Rhodes",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1508"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101218",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Ji Won Lee",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "01202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "01202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101219",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1609"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1408"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101220",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Georges J. Kim",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101221",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1607"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101222",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Sandra S. Smith",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101223",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "6503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "6001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101224",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Jamaica Fredericks",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1608"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "1606"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101225",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Anthony Edward Sidaway",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "01202-1"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "2508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101226",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1607"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101227",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Dean Dawson",
+  "professorNameAdditional" : "Dean Dawson ",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101228",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "6503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "6001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101229",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Jamaica Fredericks",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1608"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "1606"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101230",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Anthony Edward Sidaway",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "01202-1"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "2508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101231",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1604"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101232",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Dean Dawson",
+  "professorNameAdditional" : "Dean Dawson ",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2501"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "2509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101233",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "6001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101234",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Jamaica Fredericks",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1507"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "1606"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101235",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "01202-1"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "01202-1"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101236",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Gunther Breaux",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1604"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "1604"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101238",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "6001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101239",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Jamaica Fredericks",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1507"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "1606"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71101240",
+  "subjectName" : "실용영어1 (Practical English 1)",
+  "professorNameMain" : "Scott Haven",
+  "professorNameAdditional" : "Scott VanDeursen Haven",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "01202-1"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "01202-1"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71201101",
+  "subjectName" : "실용이탈리아어1 (Practical Italian 1)",
+  "professorNameMain" : "김효정",
+  "professorNameAdditional" : "Hyojung Kim",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71201102",
+  "subjectName" : "실용이탈리아어1 (Practical Italian 1)",
+  "professorNameMain" : "이소영(I)",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71201103",
+  "subjectName" : "실용이탈리아어1 (Practical Italian 1)",
+  "professorNameMain" : "김은영",
+  "professorNameAdditional" : "Kim Eun Young",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 9, 10 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71251101",
+  "subjectName" : "실용인도어1 (Practical Indian 1)",
+  "professorNameMain" : "Ravinder Gargesh",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171101",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "김경화",
+  "professorNameAdditional" : "KIM KYOUNG HWA",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171102",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "강운경",
+  "professorNameAdditional" : "Kang WoonKyung",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "2509"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "2509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171103",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "고은숙",
+  "professorNameAdditional" : "Ko Eun Sook",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171104",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "정해연",
+  "professorNameAdditional" : "Hae Youn Chung",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171105",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "윤상현",
+  "professorNameAdditional" : "Youn SangHyun",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "1208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171106",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "정해옥",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171107",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "이숙연",
+  "professorNameAdditional" : "Lee Sook-yeon",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "3405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171108",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "김병숙",
+  "professorNameAdditional" : "KIM BYUNGSOOK",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1506"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171109",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "최숙이",
+  "professorNameAdditional" : "Choi Sook Yee",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "1503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171110",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "김은영(실용외)",
+  "professorNameAdditional" : "Kim, eunyoung",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171111",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "김인혜",
+  "professorNameAdditional" : " kim In-Hye",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171112",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "심종숙",
+  "professorNameAdditional" : "SIM JONG SOOK",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2504"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "6502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171113",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "박지영",
+  "professorNameAdditional" : "Park Ji-young",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171114",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "황봉모",
+  "professorNameAdditional" : "Hwang Bong Mo",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "1503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171115",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "신미진",
+  "professorNameAdditional" : "Shin Mijin",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "2405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171116",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "송은혜",
+  "professorNameAdditional" : "Song Eun Hye",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "2502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "6502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71171117",
+  "subjectName" : "실용일본어1 (Practical Japanese 1)",
+  "professorNameMain" : "이혜경",
+  "professorNameAdditional" : "Lee Hye Kyung",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161101",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "유영림",
+  "professorNameAdditional" : "RYUE YOUNGRIM",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161102",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "유영림",
+  "professorNameAdditional" : "RYUE YOUNGRIM",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1210"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161103",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "이익희",
+  "professorNameAdditional" : "Lee, Ikhee",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161104",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "이익희",
+  "professorNameAdditional" : "Lee, Ikhee",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5 ],
+    "room" : "1402"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161105",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "여창기",
+  "professorNameAdditional" : "YEO, CHANG KEE",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "2507"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "2507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161106",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "여창기",
+  "professorNameAdditional" : "YEO, CHANG KEE",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2507"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "2507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161107",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "한재균",
+  "professorNameAdditional" : "Han Jae Kyun",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "2508"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161108",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "한재균",
+  "professorNameAdditional" : "Han Jae Kyun",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4 ],
+    "room" : "1307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161109",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "전영실",
+  "professorNameAdditional" : "Jeon Youngsil",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "1607"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161110",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "손미령(C)",
+  "professorNameAdditional" : "Son Mi Ryung",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 10 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161111",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "김원",
+  "professorNameAdditional" : "Kim won",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "1607"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161112",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "배도임",
+  "professorNameAdditional" : "Bae Do Im",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1 ],
+    "room" : "1607"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161113",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "정병윤(C)",
+  "professorNameAdditional" : "JUNG BYUNG YOON",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71161114",
+  "subjectName" : "실용중국어1 (Practical Chinese 1)",
+  "professorNameMain" : "정병윤(C)",
+  "professorNameAdditional" : "JUNG BYUNG YOON",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 10 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1305"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71211101",
+  "subjectName" : "실용포르투갈어1 (Practical Portuguese 1)",
+  "professorNameMain" : "이미정(포르)",
+  "professorNameAdditional" : "Mee Joung Lee",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71121101",
+  "subjectName" : "실용프랑스어1 (Practical French 1)",
+  "professorNameMain" : "Myriam Germain",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71121102",
+  "subjectName" : "실용프랑스어1 (Practical French 1)",
+  "professorNameMain" : "고광식",
+  "professorNameAdditional" : "Ko Kwang Shik",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9 ],
+    "room" : "1505"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 9, 10 ],
+    "room" : "1505"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71121103",
+  "subjectName" : "실용프랑스어1 (Practical French 1)",
+  "professorNameMain" : "Eric Perriard",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7 ],
+    "room" : "1406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "실용외국어(필수)(서울)",
+  "openCampus" : "Seoul",
+  "area" : "실용외국어(필수)",
+  "suggestedYear" : 1,
+  "courseNumber" : "U71121104",
+  "subjectName" : "실용프랑스어1 (Practical French 1)",
+  "professorNameMain" : "이진홍",
+  "professorNameAdditional" : "Rhee. Zhin-Hong",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 9, 10 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 8 ],
+    "room" : "1406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

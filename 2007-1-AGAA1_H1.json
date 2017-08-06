@@ -1,0 +1,192 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01235201",
+  "subjectName" : "거시경제분석 (Macroeconomic Theory)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1.이중(2.부)전공수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01233201",
+  "subjectName" : "미시경제분석 (Microeconomic theory)",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01201101",
+  "subjectName" : "정치학방법론 (Research Methods in Political Science)",
+  "professorNameMain" : "김웅진",
+  "professorNameAdditional" : "Kim, Ung Jin",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0329"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01202101",
+  "subjectName" : "평화연구 (Peace Studies)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01203101",
+  "subjectName" : "한국문화와세계화 (Korean Culture and Globalization)",
+  "professorNameMain" : "이현송",
+  "professorNameAdditional" : "Lee Hyun-Song",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "0221"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "D02354501",
+  "subjectName" : "계량경제학 (Econometrics)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 2, 5, 6 ],
+    "room" : "0117"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 45,
+  "note" : "강의시간,강의실변경(3/5)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "K01301101",
+  "subjectName" : "국제기구론 (International Organizations)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1학년생수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

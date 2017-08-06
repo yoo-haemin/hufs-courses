@@ -1,0 +1,165 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13101201",
+  "subjectName" : "교양영어1 (Communicative English 1)",
+  "professorNameMain" : "Chris Kobylinski",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6, 7 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7 ],
+    "room" : "1405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7 ],
+    "room" : "1405"
+  } ],
+  "applyNo" : 9,
+  "maxNo" : 30,
+  "note" : "* 진리(17학번 신입생 영어진단평가 미응시자 수강불가)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13101202",
+  "subjectName" : "교양영어1 (Communicative English 1)",
+  "professorNameMain" : "Todd Robert Hull",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3205"
+  } ],
+  "applyNo" : 20,
+  "maxNo" : 30,
+  "note" : "* 평화(14학번 이전 수강 가능, 17학번 신입생 영어진단평가 미응시자 수강불가)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13101203",
+  "subjectName" : "교양영어1 (Communicative English 1)",
+  "professorNameMain" : "Christopher Frosini",
+  "professorNameAdditional" : "Chris Frosini",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6, 7, 8 ],
+    "room" : "1305"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 6, 7, 8 ],
+    "room" : "1305"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 6, 7, 8 ],
+    "room" : "1305"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6, 7, 8 ],
+    "room" : "1305"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6, 7, 8 ],
+    "room" : "1305"
+  } ],
+  "applyNo" : 21,
+  "maxNo" : 30,
+  "note" : "* 평화(14학번 이전 수강 가능, 17학번 신입생 영어진단평가 미응시자 수강불가)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "교양외국어(서울)",
+  "openCampus" : "Seoul",
+  "area" : "교양외국어",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y13115201",
+  "subjectName" : "교양중국어1 (Communicative Chinese 1)",
+  "professorNameMain" : "안영은",
+  "professorNameAdditional" : "Ahn Young Yeun",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1202"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1202"
+  } ],
+  "applyNo" : 10,
+  "maxNo" : 30,
+  "note" : "* 2017학번 신입생 영어진단평가 미응시자 수강불가",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

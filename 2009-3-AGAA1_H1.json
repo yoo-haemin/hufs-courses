@@ -1,0 +1,248 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D02352501",
+  "subjectName" : "국제수지론 (International Finance and Balance of Payments)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01467301",
+  "subjectName" : "국제통상론 (Trade Issues and Policies)",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01304101",
+  "subjectName" : "문화와글로벌리제이션 (Culture and Globalization)",
+  "professorNameMain" : "박상미",
+  "professorNameAdditional" : "Bak, Sangmee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01205101",
+  "subjectName" : "미국의법과사회 (American Law and Society)",
+  "professorNameMain" : "Sara Oh",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2 ],
+    "room" : "3508"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3206"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01303101",
+  "subjectName" : "미국정치와외교정책 (American Politics and Foreign Policy)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 6 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "D03306401",
+  "subjectName" : "국제경영학 (International Management)",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "D01473201",
+  "subjectName" : "국제정치경제론 (International Political Economy)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "K01308101",
+  "subjectName" : "국제학특강(2) (Topics in International Studies (2))",
+  "professorNameMain" : "강선주",
+  "professorNameAdditional" : "Kang Seonjou",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "K01406101",
+  "subjectName" : "외교정책론 (Foreign Policy)",
+  "professorNameMain" : "황재호",
+  "professorNameAdditional" : "Hwang Jaeho",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,1075 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03143101",
+  "subjectName" : "독일어연습1 (German Exercise 1)",
+  "professorNameMain" : "조규희",
+  "professorNameAdditional" : "Cho, Kyuhee",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2201"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0221"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "1602"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03143102",
+  "subjectName" : "독일어연습1 (German Exercise 1)",
+  "professorNameMain" : "이상기(G)",
+  "professorNameAdditional" : "Rie. SangKi",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 3, 4, 7, 8 ],
+    "room" : "2506"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 24,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03143103",
+  "subjectName" : "독일어연습1 (German Exercise 1)",
+  "professorNameMain" : "서정일",
+  "professorNameAdditional" : "Seo jung Il",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2202"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2506"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03143104",
+  "subjectName" : "독일어연습1 (German Exercise 1)",
+  "professorNameMain" : "류용상",
+  "professorNameAdditional" : "Yong-Sang Lyu",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1501"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2501"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 7, 8 ],
+    "room" : "2203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03143105",
+  "subjectName" : "독일어연습1 (German Exercise 1)",
+  "professorNameMain" : "박영구",
+  "professorNameAdditional" : "Young-Goo Park",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2504"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03143106",
+  "subjectName" : "독일어연습1 (German Exercise 1)",
+  "professorNameMain" : "서유정",
+  "professorNameAdditional" : "Seo,YuJung",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2608"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "3505"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 20,
+  "note" : "추가개설(3/10),4시간 외국인교수강의,독교과수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03110101",
+  "subjectName" : "활용독일어1 (Practical Use German 1)",
+  "professorNameMain" : "방경원",
+  "professorNameAdditional" : "Bang, Kyung-Won",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03110102",
+  "subjectName" : "활용독일어1 (Practical Use German 1)",
+  "professorNameMain" : "이완호",
+  "professorNameAdditional" : "Wan-Ho Lee",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2408"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2105"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "강의시간,강의실변경(3/3), 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03110103",
+  "subjectName" : "활용독일어1 (Practical Use German 1)",
+  "professorNameMain" : "임병희",
+  "professorNameAdditional" : "Rim. Byung-Hee ",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2409"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2409"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03110104",
+  "subjectName" : "활용독일어1 (Practical Use German 1)",
+  "professorNameMain" : "김해생",
+  "professorNameAdditional" : "Kim Haesaeng",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1408"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "강의시간,강의실변경(3/3), 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03110105",
+  "subjectName" : "활용독일어1 (Practical Use German 1)",
+  "professorNameMain" : "임우영",
+  "professorNameAdditional" : "Lim Woo Young",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2201"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2201"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 26,
+  "note" : "독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "A03110106",
+  "subjectName" : "활용독일어1 (Practical Use German 1)",
+  "professorNameMain" : "노희직",
+  "professorNameAdditional" : "Noh, Hee-Jik",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1310"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1603"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03473201",
+  "subjectName" : "고급독일어읽기1 (Advanced German Course for Reading Competition 1)",
+  "professorNameMain" : "김영옥(G)",
+  "professorNameAdditional" : "KIM, Young-Ok",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "2시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03473202",
+  "subjectName" : "고급독일어읽기1 (Advanced German Course for Reading Competition 1)",
+  "professorNameMain" : "정민영",
+  "professorNameAdditional" : "Chung, Minyoung",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "2509"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 25,
+  "note" : "2시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03473203",
+  "subjectName" : "고급독일어읽기1 (Advanced German Course for Reading Competition 1)",
+  "professorNameMain" : "서유정",
+  "professorNameAdditional" : "Seo,YuJung",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "2203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "2시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03473204",
+  "subjectName" : "고급독일어읽기1 (Advanced German Course for Reading Competition 1)",
+  "professorNameMain" : "장은수",
+  "professorNameAdditional" : "JANG, Eun-Soo",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1402"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "0329"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "2시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03145101",
+  "subjectName" : "독일어연습3 (German Exercise 3)",
+  "professorNameMain" : "김요한",
+  "professorNameAdditional" : "Kim, Johann",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2409"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "2409"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "2509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03145102",
+  "subjectName" : "독일어연습3 (German Exercise 3)",
+  "professorNameMain" : "정민영",
+  "professorNameAdditional" : "Chung, Minyoung",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2105"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "2105"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4, 5, 6 ],
+    "room" : "2105"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03145103",
+  "subjectName" : "독일어연습3 (German Exercise 3)",
+  "professorNameMain" : "유덕근",
+  "professorNameAdditional" : "Yoo, Duck Geun",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2208"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "0338"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4, 5, 6 ],
+    "room" : "3509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "A03145104",
+  "subjectName" : "독일어연습3 (German Exercise 3)",
+  "professorNameMain" : "김종대",
+  "professorNameAdditional" : "Jongdae Kim",
+  "creditHour" : 6,
+  "classHour" : 8,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "2509"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 5, 6 ],
+    "room" : "2203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 23,
+  "note" : "4시간 외국인교수강의, 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03319101",
+  "subjectName" : "독.한번역연습 (Translation of German into Korean )",
+  "professorNameMain" : "백인옥",
+  "professorNameAdditional" : "Paek In-Ok",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "0330"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5 ],
+    "room" : "2601"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "강의시간,강의실변경(2/12), 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03377101",
+  "subjectName" : "독일동화론 (German Marchen)",
+  "professorNameMain" : "조규희",
+  "professorNameAdditional" : "Cho, Kyuhee",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1607"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "강의시간,강의실변경(2/12), 독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03303201",
+  "subjectName" : "독일문학사1 (History of German Literature 1)",
+  "professorNameMain" : "장은수",
+  "professorNameAdditional" : "JANG, Eun-Soo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "2202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03213101",
+  "subjectName" : "독일어문장론 (German Syntax)",
+  "professorNameMain" : "김경욱(GE)",
+  "professorNameAdditional" : "Kim Gyung-Uk",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03383101",
+  "subjectName" : "독일어쓰기1 (German Writing Exercise 1)",
+  "professorNameMain" : "Bernhard Vierthaler",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "0330"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03317101",
+  "subjectName" : "독일어학개론1 (Introduction to German Linguistics 1)",
+  "professorNameMain" : "김백기",
+  "professorNameAdditional" : "Kim, Paig-Ki",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1211"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03363101",
+  "subjectName" : "독일작가론 (German Writers)",
+  "professorNameMain" : "김충남",
+  "professorNameAdditional" : "Kim, Choong Nam",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03467301",
+  "subjectName" : "독일지역사정(역사) (German Studies(History))",
+  "professorNameMain" : "윤용선",
+  "professorNameAdditional" : "Yun Yong-Seon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2209"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03391101",
+  "subjectName" : "전공FLEX독일어1 (Preparation Course for FLEX German 1)",
+  "professorNameMain" : "최낙구",
+  "professorNameAdditional" : "Choe, Naggu",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "강의시간변경(2/12), 독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "A03389101",
+  "subjectName" : "전공영상독일어1 (German Language in Films 1)",
+  "professorNameMain" : "Michael Weitz",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2204"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03483101",
+  "subjectName" : "독일명작의이해 (Understanding Classics in German Literature)",
+  "professorNameMain" : "정민영",
+  "professorNameAdditional" : "Chung, Minyoung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "0329"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03401101",
+  "subjectName" : "독일문예론 (Theory of German Literary Art)",
+  "professorNameMain" : "송윤엽",
+  "professorNameAdditional" : "Song Yun Yeop",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03325101",
+  "subjectName" : "독일문화의이해 (Understanding German Culture)",
+  "professorNameMain" : "박영구",
+  "professorNameAdditional" : "Young-Goo Park",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03421201",
+  "subjectName" : "독일어의미론 (German Semantics)",
+  "professorNameMain" : "홍승우",
+  "professorNameAdditional" : "Hong Seung-woo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0328"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03332101",
+  "subjectName" : "독일어통역연습1 (Practice in German Interpretation 1)",
+  "professorNameMain" : "정혜연",
+  "professorNameAdditional" : "Chung, Hye-yeon",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "1508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03465201",
+  "subjectName" : "독일현대문학 (Contemporary German Literature)",
+  "professorNameMain" : "김충남",
+  "professorNameAdditional" : "Kim, Choong Nam",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03403101",
+  "subjectName" : "독일희곡 (German Drama)",
+  "professorNameMain" : "이인웅",
+  "professorNameAdditional" : "Lee Inn-Ung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-독일어과(Department of German)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "A03471101",
+  "subjectName" : "시사독일어1 (Current Issues in German 1)",
+  "professorNameMain" : "장준호",
+  "professorNameAdditional" : "JUN-HO, CHANG",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "강의실변경(3/19),독일어교육과 교류",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

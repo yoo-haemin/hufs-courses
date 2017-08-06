@@ -1,0 +1,81 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "건강과레포츠(서울)",
+  "openCampus" : "Seoul",
+  "area" : "건강과레포츠",
+  "courseNumber" : "U76378101",
+  "subjectName" : "웰빙시대의운동과다이어트 (Exercise and Diet of Well-being Ages)",
+  "professorNameMain" : "이지현(체육)",
+  "professorNameAdditional" : "LEE ji hyun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1407"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1407"
+  } ],
+  "applyNo" : 22,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "건강과레포츠(서울)",
+  "openCampus" : "Seoul",
+  "area" : "건강과레포츠",
+  "courseNumber" : "U72242301",
+  "subjectName" : "체육(필라테스) (Physical Education (Pilates))",
+  "professorNameMain" : "최연아",
+  "professorNameAdditional" : "Choi, Yeon A",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "무용실"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "무용실"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "무용실"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "무용실"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "무용실"
+  } ],
+  "applyNo" : 14,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

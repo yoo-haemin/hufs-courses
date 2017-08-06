@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 3,
+  "openDept" : "(서울)-일본문학전공(Japanese Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02824201",
+  "subjectName" : "일본문학의이해(2) (Understanding of Japanese Literature(2))",
+  "professorNameMain" : "김일도",
+  "professorNameAdditional" : "kim il do",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "2202"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "2학년 일본문학전공자",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 3,
+  "openDept" : "(서울)-일본문학전공(Japanese Literature)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02824202",
+  "subjectName" : "일본문학의이해(2) (Understanding of Japanese Literature(2))",
+  "professorNameMain" : "강소영",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "2405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

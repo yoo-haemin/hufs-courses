@@ -1,0 +1,138 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02409101",
+  "subjectName" : "경기변동론 (Theory of Business Cycle)",
+  "professorNameMain" : "이종걸",
+  "professorNameAdditional" : "Lee, Jong-Gul",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02407201",
+  "subjectName" : "노동경제학 (Labor Economics)",
+  "professorNameMain" : "한홍순",
+  "professorNameAdditional" : "Han Hong-soon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 4 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02307101",
+  "subjectName" : "정보통신경제학 (Economics of Information & Telecommunications)",
+  "professorNameMain" : "최용제",
+  "professorNameAdditional" : "Choi Yong-Jae",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D02401201",
+  "subjectName" : "한국경제론 (Studies on Korean Economy)",
+  "professorNameMain" : "박명호",
+  "professorNameAdditional" : "Park, Myung Ho",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 1,
+  "openDept" : "(서울)-경제학과(Department of Economics)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "D01304501",
+  "subjectName" : "국제금융론 (International Finance)",
+  "professorNameMain" : "이상훈",
+  "professorNameAdditional" : "Lee Sanghoon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3501"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "강의시간변경(3/6)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

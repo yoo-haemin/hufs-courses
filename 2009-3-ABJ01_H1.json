@@ -1,0 +1,129 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-몽골어과(Department of Mongolian)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B10110101",
+  "subjectName" : "몽골인의생활문화 (Mongolian's Culture & Lifestyle)",
+  "professorNameMain" : "김기선",
+  "professorNameAdditional" : "Kim, Ki-Sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-몽골어과(Department of Mongolian)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B10108101",
+  "subjectName" : "몽골학입문(2) (Introduction to Mongolian Studies (2))",
+  "professorNameMain" : "김기선",
+  "professorNameAdditional" : "Kim, Ki-Sun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1605"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-몽골어과(Department of Mongolian)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B10102101",
+  "subjectName" : "초급몽골어문법강독(2) (Elementary Mongolian Grammar & Readings (2))",
+  "professorNameMain" : "Otgontsetseg Damdinsuren",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5 ],
+    "room" : "1308"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-몽골어과(Department of Mongolian)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B10104101",
+  "subjectName" : "초급몽골어언어실습(2) (Elementary Mongolian Language Lab. (2))",
+  "professorNameMain" : "Otgontsetseg Damdinsuren",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1408"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-몽골어과(Department of Mongolian)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B10106101",
+  "subjectName" : "초급몽골어회화(2) (Elementary Mongolian Conversation (2))",
+  "professorNameMain" : "Otgontsetseg Damdinsuren",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1408"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 6 ],
+    "room" : "1308"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

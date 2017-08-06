@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 3,
+  "openDept" : "(서울)-일본학부(Japanese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B02157201",
+  "subjectName" : "인터뷰일본어 (Japanese Interview)",
+  "professorNameMain" : "Ito Sachiko",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "C305"
+  } ],
+  "applyNo" : 18,
+  "maxNo" : 20,
+  "note" : "2전공/부전공자 수강제한",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 3,
+  "openDept" : "(서울)-일본학부(Japanese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B02157202",
+  "subjectName" : "인터뷰일본어 (Japanese Interview)",
+  "professorNameMain" : "Ito Sachiko",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "C308"
+  } ],
+  "applyNo" : 18,
+  "maxNo" : 20,
+  "note" : "2전공/부전공자 수강제한",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

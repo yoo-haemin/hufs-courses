@@ -1,0 +1,221 @@
+[ {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D03103101",
+  "subjectName" : "경영통계학 (Business Statistics)",
+  "professorNameMain" : "이영환",
+  "professorNameAdditional" : "Lee, Young Hwan",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "수강대상 제한없음,강의실변경(8/27)",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D03103102",
+  "subjectName" : "경영통계학 (Business Statistics)",
+  "professorNameMain" : "이영환",
+  "professorNameAdditional" : "Lee, Young Hwan",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "수강대상 제한없음,강의실변경(8/27)",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D03103103",
+  "subjectName" : "경영통계학 (Business Statistics)",
+  "professorNameMain" : "한철우",
+  "professorNameAdditional" : "HAN CHUL WOO",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 8, 9, 10 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "수강대상 제한없음",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205601",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "박석구",
+  "professorNameAdditional" : "Park Suk Koo",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3 ],
+    "room" : "3407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "수강대상 제한없음",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205602",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "남기석",
+  "professorNameAdditional" : "Nam Giseok",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "수강대상 제한없음",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205603",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "윤성용",
+  "professorNameAdditional" : "Sung-Yong Yoon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3 ],
+    "room" : "3508"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "수강대상 제한없음",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205604",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "김경순",
+  "professorNameAdditional" : "Kim Kyung Soon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1 ],
+    "room" : "3508"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "3508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "수강대상 제한없음",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2007,
+  "openSemester" : 3,
+  "openDept" : "(서울)-경영학부(Business Administration Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01205615",
+  "subjectName" : "회계원리 (Principles of Accounting)",
+  "professorNameMain" : "박윤종",
+  "professorNameAdditional" : "Park, Yoon Jong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3509"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "추가개설(8/24), 수강대상 제한없음",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

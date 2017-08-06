@@ -1,0 +1,21 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 2,
+  "openDept" : "특별교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "특별교양",
+  "courseNumber" : "Y51125201",
+  "subjectName" : "기업가정신과창업 (Entrepreneurship & Foundation)",
+  "professorNameMain" : "김승철",
+  "professorNameAdditional" : "Kim, Seung Chul",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ ],
+  "applyNo" : 284,
+  "maxNo" : 999,
+  "note" : "타대교류생 수강불가, Pass/Faill, 이수자 대상 HUFS 창업 장학금 지급(158,000원, 수강료와 동일금액)",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

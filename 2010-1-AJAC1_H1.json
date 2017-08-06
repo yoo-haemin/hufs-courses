@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 1,
+  "openDept" : "(서울)-일본지역학전공(Japanese Area Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02825101",
+  "subjectName" : "일본지역학의이해(1) (Introduction to Japanese Studies 1(Society & Culture))",
+  "professorNameMain" : "박용구",
+  "professorNameAdditional" : "Yong Koo, PARK",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1210"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "2학년 일본지역학전공자",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 1,
+  "openDept" : "(서울)-일본지역학전공(Japanese Area Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B02825102",
+  "subjectName" : "일본지역학의이해(1) (Introduction to Japanese Studies 1(Society & Culture))",
+  "professorNameMain" : "양익모",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "2508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

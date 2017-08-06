@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "U54107401",
+  "subjectName" : "동남아시아문화의이해 (Culture of South Asia)",
+  "professorNameMain" : "장준영",
+  "professorNameAdditional" : "Jang Jun Young ",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 23,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "Y21126201",
+  "subjectName" : "뮤지컬의이해와감상 (Understanding and Apprectiation of Musical)",
+  "professorNameMain" : "서정미",
+  "professorNameAdditional" : "Seo Jeong Mi",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 49,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "U76243101",
+  "subjectName" : "영화의이해와감상 (Understanding Film)",
+  "professorNameMain" : "이정욱",
+  "professorNameAdditional" : "Lee Jeung Wook",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  } ],
+  "applyNo" : 42,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

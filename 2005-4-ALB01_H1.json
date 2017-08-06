@@ -1,0 +1,46 @@
+[ {
+  "openYear" : 2005,
+  "openSemester" : 4,
+  "openDept" : "(서울)-경영학과(Department of Business Administration)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "D03451201",
+  "subjectName" : "소비자행동론 (Theory of Consumer Behavior)",
+  "professorNameMain" : "남기매",
+  "professorNameAdditional" : "Nam, kimae",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3206"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 80,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

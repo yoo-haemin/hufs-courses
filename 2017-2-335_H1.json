@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "핵심인문기초(서울)",
+  "openCampus" : "Seoul",
+  "area" : "핵심인문기초",
+  "courseNumber" : "Y51101301",
+  "subjectName" : "논리학입문 (Introduction to Logic)",
+  "professorNameMain" : "강준호",
+  "professorNameAdditional" : "kang Joon Ho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3305"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "3305"
+  } ],
+  "applyNo" : 10,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "핵심인문기초(서울)",
+  "openCampus" : "Seoul",
+  "area" : "핵심인문기초",
+  "courseNumber" : "U72136101",
+  "subjectName" : "문학과신화 (Literature and Myth)",
+  "professorNameMain" : "김계영",
+  "professorNameAdditional" : "KIM Kyeyoung",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1203"
+  } ],
+  "applyNo" : 15,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "핵심인문기초(서울)",
+  "openCampus" : "Seoul",
+  "area" : "핵심인문기초",
+  "courseNumber" : "U76230101",
+  "subjectName" : "문학이란무엇인가 (What is Literature ?)",
+  "professorNameMain" : "윤석진",
+  "professorNameAdditional" : "Youn, Sokjin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 15,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,854 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01135101",
+  "subjectName" : "중국역사 (Chinese History)",
+  "professorNameMain" : "이익희",
+  "professorNameAdditional" : "Lee, Ikhee",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01135102",
+  "subjectName" : "중국역사 (Chinese History)",
+  "professorNameMain" : "김태성(교양)",
+  "professorNameAdditional" : "",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "3505"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01135103",
+  "subjectName" : "중국역사 (Chinese History)",
+  "professorNameMain" : "문승용",
+  "professorNameAdditional" : "Moon, Seung-Yong",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1602"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01131101",
+  "subjectName" : "중국인의생활문화 (Chinese Life Culture)",
+  "professorNameMain" : "박재우",
+  "professorNameAdditional" : "Park, Jae Woo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01131102",
+  "subjectName" : "중국인의생활문화 (Chinese Life Culture)",
+  "professorNameMain" : "배도임",
+  "professorNameAdditional" : "Bae Do Im",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1406"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01131103",
+  "subjectName" : "중국인의생활문화 (Chinese Life Culture)",
+  "professorNameMain" : "박남용",
+  "professorNameAdditional" : "PARK NAM YONG",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01131104",
+  "subjectName" : "중국인의생활문화 (Chinese Life Culture)",
+  "professorNameMain" : "배도임",
+  "professorNameAdditional" : "Bae Do Im",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1407"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129101",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "이현주(C)",
+  "professorNameAdditional" : "Lee, Hyun-Joo",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "1504"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129102",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "이현주(C)",
+  "professorNameAdditional" : "Lee, Hyun-Joo",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1504"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1306"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129103",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "권혜경",
+  "professorNameAdditional" : "Heakyung Kwon",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1408"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1311"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129104",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "권혜경",
+  "professorNameAdditional" : "Heakyung Kwon",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "1305"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1406"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129105",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "양경미",
+  "professorNameAdditional" : "Yang, Kyongmi",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2105"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2105"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129106",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "양경미",
+  "professorNameAdditional" : "Yang, Kyongmi",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "1404"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2105"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129107",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "정연실",
+  "professorNameAdditional" : "Jeuong Yon-Sil",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2507"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2203"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "2105"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129108",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "고진아",
+  "professorNameAdditional" : "",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "01202-1"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2405"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "2508"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129109",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "이민숙",
+  "professorNameAdditional" : "lee min suk",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "0115"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "0115"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01129110",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "맹주억",
+  "professorNameAdditional" : "Maeng Joo Oeck",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "1307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "1208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "1208"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01133101",
+  "subjectName" : "현대중국의이해 (Understanding of Contemporary China)",
+  "professorNameMain" : "하남석",
+  "professorNameAdditional" : "Ha Nam Suk",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "5001"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01133102",
+  "subjectName" : "현대중국의이해 (Understanding of Contemporary China)",
+  "professorNameMain" : "하남석",
+  "professorNameAdditional" : "Ha Nam Suk",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "B01133103",
+  "subjectName" : "현대중국의이해 (Understanding of Contemporary China)",
+  "professorNameMain" : "박홍서",
+  "professorNameAdditional" : "Park Hongseo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "1602"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "O01301301",
+  "subjectName" : "FLEX중국어(1) (FLEX Chinese (1))",
+  "professorNameMain" : "이정교",
+  "professorNameAdditional" : "Lee Jeong Kyo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "O01301302",
+  "subjectName" : "FLEX중국어(1) (FLEX Chinese (1))",
+  "professorNameMain" : "이정교",
+  "professorNameAdditional" : "Lee Jeong Kyo",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "2404"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "O01301303",
+  "subjectName" : "FLEX중국어(1) (FLEX Chinese (1))",
+  "professorNameMain" : "장은영",
+  "professorNameAdditional" : "Jang, Eun Young",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "1204"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01129112",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "김태성(교양)",
+  "professorNameAdditional" : "",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3505"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "2506"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "1605"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01129113",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "김태성(교양)",
+  "professorNameAdditional" : "",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "3505"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "2507"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "1605"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01129114",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "김영미(C)",
+  "professorNameAdditional" : "",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "2403"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "2403"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01129115",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "고진아",
+  "professorNameAdditional" : "",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 9, 10 ],
+    "room" : "2506"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "0206-2"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "0206-2"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01129116",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "이민숙",
+  "professorNameAdditional" : "lee min suk",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1207"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-중국학부(Chinese Studies Division)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "B01129117",
+  "subjectName" : "초급중국어(1) (Elementary Chinese (1))",
+  "professorNameMain" : "김영미(C)",
+  "professorNameAdditional" : "",
+  "creditHour" : 4,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "2404"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "1309"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "2503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 19,
+  "note" : "중국인,중국어권재외국민,중국어우수입학자수강금지",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

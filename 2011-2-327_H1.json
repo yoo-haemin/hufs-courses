@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "건강과레포츠(서울)",
+  "openCampus" : "Seoul",
+  "area" : "건강과레포츠",
+  "courseNumber" : "U76310101",
+  "subjectName" : "운동과체형관리 (Exercise & Weight Control)",
+  "professorNameMain" : "이상호(체육)",
+  "professorNameAdditional" : "Lee Sang Ho",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "건강과레포츠(서울)",
+  "openCampus" : "Seoul",
+  "area" : "건강과레포츠",
+  "courseNumber" : "U51512101",
+  "subjectName" : "체육(야영생활과리더쉽) (Physical Education (Outdoor Activity and Leadership))",
+  "professorNameMain" : "김태영",
+  "professorNameAdditional" : "Kim, Tae-Young",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3503"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "3503"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "교통비 (각자 부담)",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "건강과레포츠(서울)",
+  "openCampus" : "Seoul",
+  "area" : "건강과레포츠",
+  "courseNumber" : "U72242301",
+  "subjectName" : "체육(필라테스) (Physical Education (Pilates))",
+  "professorNameMain" : "김주연",
+  "professorNameAdditional" : "Kim Ju Yeon",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3504"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "3504"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3504"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3504"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3, 4 ],
+    "room" : "3504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

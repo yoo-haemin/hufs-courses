@@ -1,0 +1,83 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "(서울)-국제통상학과(Department of International Economics and Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101101",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "민병길",
+  "professorNameAdditional" : "Min Byoung_Kil",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(용인)경영정보학과 전공인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 2,
+  "openDept" : "(서울)-국제통상학과(Department of International Economics and Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102901",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "민병길",
+  "professorNameAdditional" : "Min Byoung_Kil",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "(용인)경영정보학과 전공인정",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

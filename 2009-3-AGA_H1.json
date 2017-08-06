@@ -1,0 +1,171 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102A01",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "1전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102A02",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "이중(제2.부)전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C01151201",
+  "subjectName" : "국제관계개론 (Introduction to International Relations)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3, 4 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C01151202",
+  "subjectName" : "국제관계개론 (Introduction to International Relations)",
+  "professorNameMain" : "배병인",
+  "professorNameAdditional" : "Bai Byoung Inn",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3507"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "추가개설(8/28), 1전공.이중(제2.부)전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01104101",
+  "subjectName" : "국제학영어토론과발표 (English Debate and Presentation)",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 2 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "3302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2009,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01104102",
+  "subjectName" : "국제학영어토론과발표 (English Debate and Presentation)",
+  "professorNameMain" : "Alec Gordon",
+  "professorNameAdditional" : "Gordon Alec",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 6 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 50,
+  "note" : "1전공.이중(제2.부)전공 수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

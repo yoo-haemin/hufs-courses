@@ -1,0 +1,63 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본지역학전공(Japanese Area Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02167101",
+  "subjectName" : "일본문화컨텐츠 (Cultural Contents in Japan)",
+  "professorNameMain" : "박용구",
+  "professorNameAdditional" : "Yong Koo, PARK",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "'일본문화컨텐츠(캡스톤디자인)' 동일교과목임, 글로벌캠 전공/이중/부 인정",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 4,
+  "openDept" : "(서울)-일본지역학전공(Japanese Area Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "B02167201",
+  "subjectName" : "일본문화컨텐츠(캡스톤디자인) (Culture Contents in Japan (Capstone Design))",
+  "professorNameMain" : "김미정",
+  "professorNameAdditional" : "KIM MI JUNG",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "1308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "'일본문화컨텐츠' 동일교과목, 글로벌캠 전공/이중/부 인정",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

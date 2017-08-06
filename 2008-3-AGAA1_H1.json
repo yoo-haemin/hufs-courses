@@ -1,0 +1,215 @@
+[ {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D02352501",
+  "subjectName" : "국제수지론 (International Finance and Balance of Payments)",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 7, 8 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5 ],
+    "room" : "3403"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01467301",
+  "subjectName" : "국제통상론 (Trade Issues and Policies)",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 3, 4 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01304101",
+  "subjectName" : "문화와글로벌리제이션 (Culture and Globalization)",
+  "professorNameMain" : "박상미",
+  "professorNameAdditional" : "Bak, Sangmee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3305"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "K01303101",
+  "subjectName" : "미국정치와외교정책 (American Politics and Foreign Policy)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 6 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "D03306401",
+  "subjectName" : "국제경영학 (International Management)",
+  "professorNameMain" : "Brandon Walcutt",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 6, 7 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "D01473201",
+  "subjectName" : "국제정치경제론 (International Political Economy)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "D01409401",
+  "subjectName" : "투자론 (Economics of Investment)",
+  "professorNameMain" : "박도준",
+  "professorNameAdditional" : "Bhak, Dohjoon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3509"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2008,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학전공(International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "K01306101",
+  "subjectName" : "통상이슈 (International Trade Issues)",
+  "professorNameMain" : "안영도",
+  "professorNameAdditional" : "Yong Daw Ahn",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3406"
+  } ],
+  "applyNo" : 0,
+  "note" : "1전공,이중(제2,부)전공 수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : true,
+  "teamTeaching" : false
+} ]

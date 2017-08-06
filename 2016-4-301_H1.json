@@ -1,0 +1,165 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12102201",
+  "subjectName" : "미네르바인문강좌2:글로벌소통과배려 (Minerva liberal arts lecture 2: Global communication and Care)",
+  "professorNameMain" : "이성혁",
+  "professorNameAdditional" : "Lee Seong Hyuk",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 24,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12102202",
+  "subjectName" : "미네르바인문강좌2:글로벌소통과배려 (Minerva liberal arts lecture 2: Global communication and Care)",
+  "professorNameMain" : "정현경",
+  "professorNameAdditional" : "Jeong, Hyun-Kyung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3307"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3307"
+  } ],
+  "applyNo" : 39,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12102203",
+  "subjectName" : "미네르바인문강좌2:글로벌소통과배려 (Minerva liberal arts lecture 2: Global communication and Care)",
+  "professorNameMain" : "박미령",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 30,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12102204",
+  "subjectName" : "미네르바인문강좌2:글로벌소통과배려 (Minerva liberal arts lecture 2: Global communication and Care)",
+  "professorNameMain" : "오충환",
+  "professorNameAdditional" : "Oh chunghwan",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 38,
+  "maxNo" : 50,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

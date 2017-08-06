@@ -1,0 +1,121 @@
+[ {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "U76212401",
+  "subjectName" : "글로벌축제문화 (Global Festival Culture)",
+  "professorNameMain" : "김남희(문화콘)",
+  "professorNameAdditional" : "KIM MAM-HEE",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3106"
+  } ],
+  "applyNo" : 39,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+}, {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "Y21112201",
+  "subjectName" : "독일어권문화의이해 (Culture of German-speaking Countries)",
+  "professorNameMain" : "윤석진",
+  "professorNameAdditional" : "Youn, Sokjin",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6 ],
+    "room" : "3508"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6 ],
+    "room" : "3508"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3508"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6 ],
+    "room" : "3508"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "3508"
+  } ],
+  "applyNo" : 35,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2016,
+  "openSemester" : 4,
+  "openDept" : "문화와예술(서울)",
+  "openCampus" : "Seoul",
+  "area" : "문화와예술",
+  "courseNumber" : "U76243101",
+  "subjectName" : "영화의이해와감상 (Understanding Film)",
+  "professorNameMain" : "이정욱",
+  "professorNameAdditional" : "Lee Jeung Wook",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "6226"
+  } ],
+  "applyNo" : 37,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

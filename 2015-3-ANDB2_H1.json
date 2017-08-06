@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 3,
+  "openDept" : "(서울)-사학과(Department of History)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 3,
+  "courseNumber" : "R05101201",
+  "subjectName" : "한국근대사 (Modern History of Korea )",
+  "professorNameMain" : "신운용",
+  "professorNameAdditional" : "shin woon-yong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "B2-21"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 3,
+  "openDept" : "(서울)-사학과(Department of History)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "R05486102",
+  "subjectName" : "한국대외관계사 (History of Korean Foreign Relationship)",
+  "professorNameMain" : "이성제",
+  "professorNameAdditional" : "LEE Seong JE",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "C405"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 60,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

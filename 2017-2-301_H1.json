@@ -1,0 +1,165 @@
+[ {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12101201",
+  "subjectName" : "미네르바인문강좌1:인간과문명 (Minerva liberal arts lecture 1: Human being and civilization)",
+  "professorNameMain" : "이가원",
+  "professorNameAdditional" : "Lee, Ka-won",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3401"
+  } ],
+  "applyNo" : 32,
+  "maxNo" : 45,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12101202",
+  "subjectName" : "미네르바인문강좌1:인간과문명 (Minerva liberal arts lecture 1: Human being and civilization)",
+  "professorNameMain" : "강준호",
+  "professorNameAdditional" : "kang Joon Ho",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 4, 5, 6 ],
+    "room" : "3306"
+  } ],
+  "applyNo" : 33,
+  "maxNo" : 45,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12101203",
+  "subjectName" : "미네르바인문강좌1:인간과문명 (Minerva liberal arts lecture 1: Human being and civilization)",
+  "professorNameMain" : "오충환",
+  "professorNameAdditional" : "Oh chunghwan",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "3205"
+  } ],
+  "applyNo" : 35,
+  "maxNo" : 45,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2017,
+  "openSemester" : 2,
+  "openDept" : "인문강좌(서울)",
+  "openCampus" : "Seoul",
+  "area" : "인문강좌",
+  "suggestedYear" : 1,
+  "courseNumber" : "Y12101204",
+  "subjectName" : "미네르바인문강좌1:인간과문명 (Minerva liberal arts lecture 1: Human being and civilization)",
+  "professorNameMain" : "이경화",
+  "professorNameAdditional" : "leekyunghwa",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 28,
+  "maxNo" : 45,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

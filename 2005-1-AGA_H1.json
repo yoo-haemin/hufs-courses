@@ -1,0 +1,113 @@
+[ {
+  "openYear" : 2005,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01101A02",
+  "subjectName" : "경제학원론(1) (Principles of Economics (1))",
+  "professorNameMain" : "김민녕",
+  "professorNameAdditional" : "Kim Minyoung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "전필, 영어강의",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01101101",
+  "subjectName" : "국제학영어논문작성법 (Academic Writing for International Studies )",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 3, 4 ],
+    "room" : "3502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2 ],
+    "room" : "3502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 20,
+  "note" : "전필, 영어강의, 전공자수강",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01102101",
+  "subjectName" : "정보사회와세계화 (Information Society and Globalization )",
+  "professorNameMain" : "이영환",
+  "professorNameAdditional" : "Lee, Young Hwan",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1 ],
+    "room" : "0219"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "영어강의",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 1,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C01101401",
+  "subjectName" : "정치학개론 (Introduction to Political Science)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3502"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 3 ],
+    "room" : "3502"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "전필, 영어강의",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

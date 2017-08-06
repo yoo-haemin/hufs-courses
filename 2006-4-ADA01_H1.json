@@ -1,0 +1,91 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-법학과(Department of Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "G01102101",
+  "subjectName" : "민법총칙2 (General Provisions of Civil Law (2))",
+  "professorNameMain" : "박희호",
+  "professorNameAdditional" : "Hee-Ho Pak",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 2, 3, 4 ],
+    "room" : "3205"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "시간변경",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 4,
+  "openDept" : "(서울)-법학과(Department of Law)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "G01110101",
+  "subjectName" : "법학개론 (Introduction to Law)",
+  "professorNameMain" : "김은경",
+  "professorNameAdditional" : "Kim, Eun-Kyung",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3205"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 5, 6, 7 ],
+    "room" : "3205"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 55,
+  "note" : "시간변경",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

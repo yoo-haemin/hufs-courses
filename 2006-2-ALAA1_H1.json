@@ -1,0 +1,91 @@
+[ {
+  "openYear" : 2006,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학전공(Business Administration)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D01405401",
+  "subjectName" : "마케팅관리 (Marketing Management)",
+  "professorNameMain" : "남기매",
+  "professorNameAdditional" : "Nam, kimae",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 1, 2, 3 ],
+    "room" : "3308"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2006,
+  "openSemester" : 2,
+  "openDept" : "(서울)-경영학전공(Business Administration)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "D03205201",
+  "subjectName" : "재무회계(1) (Financial Accounting (1))",
+  "professorNameMain" : "윤성용",
+  "professorNameAdditional" : "Sung-Yong Yoon",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Tue",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Thu",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  }, {
+    "dow" : "Sat",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3301"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 70,
+  "note" : "강변",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

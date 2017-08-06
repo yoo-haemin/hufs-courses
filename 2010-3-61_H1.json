@@ -1,0 +1,57 @@
+[ {
+  "openYear" : 2010,
+  "openSemester" : 3,
+  "openDept" : "군사학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "군사학",
+  "suggestedYear" : 3,
+  "courseNumber" : "U07304301",
+  "subjectName" : "군사학2 (Military Science 2)",
+  "professorNameMain" : "백영삼",
+  "professorNameAdditional" : "Baek Young Sam",
+  "creditHour" : 2,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "7208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "7208"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2010,
+  "openSemester" : 3,
+  "openDept" : "군사학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "군사학",
+  "suggestedYear" : 4,
+  "courseNumber" : "U07303301",
+  "subjectName" : "군사학4 (Military Science 4)",
+  "professorNameMain" : "최형수",
+  "professorNameAdditional" : "Choi HyungSoo",
+  "creditHour" : 2,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 5, 6, 7, 8 ],
+    "room" : "7106"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "7106"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

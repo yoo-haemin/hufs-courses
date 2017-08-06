@@ -1,0 +1,117 @@
+[ {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "D01102A01",
+  "subjectName" : "경제학원론(2) (Principles of Economics (2))",
+  "professorNameMain" : "왕석동",
+  "professorNameAdditional" : "Wang, Seok-Dong",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 2 ],
+    "room" : "3304"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 2, 3 ],
+    "room" : "3304"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "영어강의",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "C01151201",
+  "subjectName" : "국제관계개론 (Introduction to International Relations)",
+  "professorNameMain" : "Dennis Florig",
+  "professorNameAdditional" : "",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 4 ],
+    "room" : "3303"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 5, 6 ],
+    "room" : "3303"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 32,
+  "note" : "영어강의",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01104101",
+  "subjectName" : "국제학영어토론과발표 (English Debate and Presentation)",
+  "professorNameMain" : "Alec Gordon",
+  "professorNameAdditional" : "Gordon Alec",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 7 ],
+    "room" : "2207"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 5, 6 ],
+    "room" : "2207"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "전공자.자유전공학부수강,영어강의",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2005,
+  "openSemester" : 3,
+  "openDept" : "(서울)-국제학부(Division of International Studies)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 1,
+  "courseNumber" : "K01103101",
+  "subjectName" : "문화다양성의이해 (Introduction to Cultural Diversity)",
+  "professorNameMain" : "박상미",
+  "professorNameAdditional" : "Bak, Sangmee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 2, 3 ],
+    "room" : "1302"
+  }, {
+    "dow" : "Wed",
+    "time" : [ 3 ],
+    "room" : "1302"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 30,
+  "note" : "영어강의",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

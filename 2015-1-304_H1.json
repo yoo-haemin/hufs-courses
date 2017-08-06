@@ -1,0 +1,73 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "HUFS CAREER(서울)",
+  "openCampus" : "Seoul",
+  "area" : "HUFS CAREER",
+  "courseNumber" : "Y12104101",
+  "subjectName" : "HUFS Career Design 진로설정과경력개발 (HUFS Career Design)",
+  "professorNameMain" : "이형국",
+  "professorNameAdditional" : "Lee Hyeonkuk",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 100,
+  "note" : "* 2학년 우선수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "HUFS CAREER(서울)",
+  "openCampus" : "Seoul",
+  "area" : "HUFS CAREER",
+  "courseNumber" : "Y12104102",
+  "subjectName" : "HUFS Career Design 진로설정과경력개발 (HUFS Career Design)",
+  "professorNameMain" : "이형국",
+  "professorNameAdditional" : "Lee Hyeonkuk",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 3, 4 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 100,
+  "note" : "* 2학년 우선수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "HUFS CAREER(서울)",
+  "openCampus" : "Seoul",
+  "area" : "HUFS CAREER",
+  "courseNumber" : "Y12104103",
+  "subjectName" : "HUFS Career Design 진로설정과경력개발 (HUFS Career Design)",
+  "professorNameMain" : "최윤경",
+  "professorNameAdditional" : "Choi Yoon Kyung",
+  "creditHour" : 1,
+  "classHour" : 2,
+  "time" : [ {
+    "dow" : "Fri",
+    "time" : [ 1, 2 ],
+    "room" : "1401"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 100,
+  "note" : "* 2학년 우선수강",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "(서울)-말레이.인도네시아어과(Department of Malay-Indonesian)",
+  "openCampus" : "Seoul",
+  "area" : "전공",
+  "suggestedYear" : 4,
+  "courseNumber" : "B03464101",
+  "subjectName" : "마.인문학강독(2) (Readings in Malay-Indonesian Literature(2))",
+  "professorNameMain" : "고영훈",
+  "professorNameAdditional" : "Koh Young Hun",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

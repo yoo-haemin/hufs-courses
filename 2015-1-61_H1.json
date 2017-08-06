@@ -1,0 +1,57 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "군사학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "군사학",
+  "suggestedYear" : 3,
+  "courseNumber" : "U07301301",
+  "subjectName" : "군사학1 (Military Science 1)",
+  "professorNameMain" : "김성연",
+  "professorNameAdditional" : "Kim Sung-yun",
+  "creditHour" : 2,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "7208"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "7208"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "군사학(서울)",
+  "openCampus" : "Seoul",
+  "area" : "군사학",
+  "suggestedYear" : 4,
+  "courseNumber" : "U07302301",
+  "subjectName" : "군사학3 (Military Science 3)",
+  "professorNameMain" : "박근재",
+  "professorNameAdditional" : "Park keun-jae",
+  "creditHour" : 2,
+  "classHour" : 6,
+  "time" : [ {
+    "dow" : "Mon",
+    "time" : [ 1, 2, 3, 4 ],
+    "room" : "7205"
+  }, {
+    "dow" : "Fri",
+    "time" : [ 7, 8 ],
+    "room" : "7205"
+  } ],
+  "applyNo" : 0,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : true
+} ]

@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-언어인지과학과(Department of Linguistics and Cognitive Science)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "R07113102",
+  "subjectName" : "언어학입문 (Introduction to Linguistics)",
+  "professorNameMain" : "이해윤",
+  "professorNameAdditional" : "Hae-Yun Lee",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Tue",
+    "time" : [ 4, 5, 6 ],
+    "room" : "2504"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2011,
+  "openSemester" : 1,
+  "openDept" : "(서울)-언어인지과학과(Department of Linguistics and Cognitive Science)",
+  "openCampus" : "Seoul",
+  "area" : "부전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "R07206102",
+  "subjectName" : "음성음운분석 (Phonetic & Phonological Analysis)",
+  "professorNameMain" : "오승태",
+  "professorNameAdditional" : "Oh Seung-Tae",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Thu",
+    "time" : [ 7, 8, 9 ],
+    "room" : "1309"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

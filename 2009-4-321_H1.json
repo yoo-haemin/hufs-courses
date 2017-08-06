@@ -1,0 +1,21 @@
+[ {
+  "openYear" : 2009,
+  "openSemester" : 4,
+  "openDept" : "기초교양(서울)",
+  "openCampus" : "Seoul",
+  "area" : "기초교양",
+  "courseNumber" : "U76201101",
+  "subjectName" : "글쓰기 (Writing)",
+  "professorNameMain" : "탁광혁",
+  "professorNameAdditional" : "Tak,Kwanghyuk",
+  "creditHour" : 2,
+  "classHour" : 2,
+  "time" : [ ],
+  "applyNo" : 0,
+  "maxNo" : 120,
+  "note" : "",
+  "required" : false,
+  "online" : true,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]

@@ -1,0 +1,51 @@
+[ {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "(서울)-융복합소프트웨어전공(Software Convergence Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "T07201102",
+  "subjectName" : "컴퓨터논리개론 (Introduction to Computer Logic)",
+  "professorNameMain" : "조상영",
+  "professorNameAdditional" : "Cho, Sang-Young",
+  "creditHour" : 3,
+  "classHour" : 3,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 9, 10 ],
+    "room" : "3203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1시간:사이버,1시간:이론",
+  "required" : false,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+}, {
+  "openYear" : 2015,
+  "openSemester" : 1,
+  "openDept" : "(서울)-융복합소프트웨어전공(Software Convergence Major)",
+  "openCampus" : "Seoul",
+  "area" : "이중(부)전공",
+  "suggestedYear" : 2,
+  "courseNumber" : "F05102402",
+  "subjectName" : "컴퓨터프로그래밍1 (Computer Programming 1)",
+  "professorNameMain" : "박상원",
+  "professorNameAdditional" : "Sangwon Park",
+  "creditHour" : 3,
+  "classHour" : 4,
+  "time" : [ {
+    "dow" : "Wed",
+    "time" : [ 6, 7, 8 ],
+    "room" : "3203"
+  } ],
+  "applyNo" : 0,
+  "maxNo" : 40,
+  "note" : "1시간:사이버,1시간:이론, 2시간:실습",
+  "required" : true,
+  "online" : false,
+  "foreignLanguage" : false,
+  "teamTeaching" : false
+} ]
